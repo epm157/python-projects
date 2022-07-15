@@ -1,0 +1,714 @@
+%.f days ago
+
+%.f hours ago
+
+%.f minutes ago
+
+%.f months ago
+
+%.f seconds ago
+
+%.f weeks ago
+
+%.f years ago
+
+1 minute ago
+
+Applock password has been reset
+
+This device was remotely located
+
+History
+
+Login error. Please wait 5 min and try again.
+
+There is no active internet connection. Please check and try again.
+
+User was not found. Please check your credentials and try again.
+
+Wrong credentials. Please check and try again.
+
+Login failed. Please check and try again.
+
+The entered email address is already registered on the ActionCenter.
+
+Registration error. Please wait 5 min and try again.
+
+Registration failed. Please check and try again.
+
+Flight mode was activated
+
+Fix E-Mail
+
+You are logged in. Your credentials are:
+
+Low battery
+
+No events found.
+
+https://ac.gdata.de/webprotection/blockpage_en.html
+
+Remote alert was triggered
+
+E-Mail
+
+Password
+
+Password needs 8 characters consisting of uppercase, lowercase letters and numbers.
+
+Passwords do not match
+
+Repeat password
+
+Device was remotely muted
+
+SIM Card was changed
+
+User was switched successfully
+
+ACCEPT
+
+A valid subscription has not been found. Please buy a new license. If you think this is an error please try again or contact support
+
+Change user
+
+Another device has permission to use your G DATA Account. Do you want transfer your account license to this device?
+
+An error occured.
+
+Your account is invalid.
+
+The license associated with your account has expired!  Buy a new license now and use the full range of functions of G DATA MobileSecurity.  No more phishing traps: SecureQR and Secure Browser protect you optimally against fake websites.  Trust in German data protection with G DATA's own ActionCenter and FindMyDevice.
+
+Number of valid devices exceeded. Manage your devices on My G DATA or proceed with limited access to your Security app.
+
+Number of valid devices exceeded. Manage your devices on My G DATA or proceed with limited access to your Security app.
+
+Your license could not be transferred. Please contact our support.
+
+Subscription automatically renews unless auto-renew is cancelled at least 24-hours before the end of the current period. 15,99€ / year
+
+G DATA Mobile Security: Premium
+
+Loading, please wait
+
+Manage your subscriptions
+
+Refresh
+
+The G DATA server could not be reached. Please try again later.
+
+G DATA Account
+
+LICENSE INFORMATION
+
+Do you really want to logout?
+
+Logout
+
+ActionCenter
+
+Control your device with G DATA's ActionCenter.
+
+ADD_NEW_ENTRY
+
+ADD_TO_BLACKLIST
+
+ADD_TO_WHITELIST
+
+Attention!
+
+G DATA Mobile Security doesn't work without the Background App Refresh enabled. To turn it on, go to Settings > General > Background App Refresh
+
+Subscribe now for $x year
+
+Limited access
+
+Security
+
+In order to provide you the best experience and to have full functionality for features such as 'Find my device' Security need the permission to access your location. Please head to the 'Settings' app and select 'Privacy' to allow Security to access your location. Thanks.
+
+Find my device
+
+Enable Find my device
+
+Your device will be located and your location will be sent to the G DATA ActionCenter
+
+You will receive an email when phone enters flightmode
+
+Flightmode
+
+Low battery
+
+You will receive an email when battery falls below 20%
+
+You will receive an email when the SIM card is removed
+
+SIM card removal
+
+Energy saver
+
+To reduce power consumption, the status of the enabled functions is updated only every two minutes, instead of in real time.
+
+Mobile Security
+
+Account
+
+Find my device
+
+App
+
+Secure QR
+
+SecureBrowser
+
+SecureBrowser Settings
+
+Access to settings
+
+Activate Applock
+
+ADDITIONAL UNLOCK METHODS
+
+Security wants to unlock your device with TouchID
+
+Enter old password
+
+Enter password
+
+Enter password again
+
+Your new password has been set
+
+Old password is not correct
+
+Passwords don't match
+
+Passwords are not long enough
+
+Error
+
+Please enter new Applock password
+
+A request to reset your Applock password has been received. Please open the Mobile Security app to enter a new Applock password.
+
+To be able to reset the password, Find my Device must be activated.
+
+Save
+
+Applock password has been reset.
+
+Reset Applock password
+
+Try again
+
+Set password
+
+Applock
+
+Unlock
+
+Use Face ID / Touch ID
+
+What shall be secured?
+
+Your password is wrong
+
+BLACK_AND_WHITELIST
+
+This is your blacklist. All the websites, that you are adding here will always be blocked by SecureBrowser
+
+SecureBrowser blocked %@ sideloads for your security
+
+Failed to import bookmarks.
+
+Bookmarks imported successfully.
+
+Imported on 
+
+Bookmark already exists in whitelist. Do you want to move it to blacklist?
+
+Bookmark already exists in blacklist. Do you want to move it to whitelist?
+
+History deleted
+
+Tabs deleted
+
+SecureZone
+
+Add to Blacklist
+
+BROWSER_ADD_TO_BOOKMARKS
+
+Add to SecureZone
+
+Add to Whitelist
+
+Blacklist
+
+Define which websites shall always be blocked
+
+Add current page
+
+Create new folder
+
+Do you want to add the current page to bookmarks, create a new folder or create a new bookmark?
+
+Enter a new URL
+
+Do you want to delete the folder with all subfolders and its containing bookmarks?
+
+Please enter a new name for this folder
+
+Bookmarks
+
+Export Bookmarks
+
+BROWSER_BOOKMARKS_EXPORT_CURRENT_FOLDER
+
+Folders
+
+Bookmarks
+
+Import Bookmarks
+
+Save
+
+Child protection
+
+Safe browsing powered by fragFINN
+
+Clear cache
+
+Delete all tabs
+
+Delete history
+
+Do you really want to delete your browser history?
+
+Do you really want to delete your browser tabs?
+
+Edit bookmarks
+
+Please fill in all fields.
+
+Please enter an URL to start browsing
+
+Fullscreen mode
+
+Incognito Mode
+
+Add
+
+New Tab
+
+Continue
+
+Search or enter website name
+
+Standard Mode
+
+Please choose your search engine
+
+SecureSearch
+
+Search engine
+
+Define your safe browsing environment
+
+Settings
+
+Advanced
+
+Basic
+
+Content
+
+Search or enter website to start browsing
+
+Added bookmark
+
+Tab deleted
+
+Tabs deleted
+
+URL #URL# is not childsafe.
+
+Whitelist
+
+Define which websites shall always be allowed
+
+Tabs
+
+Close
+
+Cancel
+
+CANNOT_BE_EMPTY
+
+You are connected to the ActionCenter. You are protected in case of theft
+
+Find my device
+
+Your iOS version is up to date
+
+Your iOS version is outdated. Check if a system update is available.
+
+iOS version check
+
+This device is or was not running an official iOS version! This is a high security risk.
+
+Jailbreak
+
+'Find my device' is disabled. For best protection, turn on the function.
+
+No Jailbreak was detected. Everything is ok!
+
+Choose action
+
+Close all
+
+G DATA Mobile Security is disabled. Open Mobile Security to keep the ActionCenter features active.
+
+Thank you very much for your registration with the G DATA ActionCenter.\n\nYou will receive a confirmation e-mail shortly. Please click on the included link to confirm your registration.
+
+Find my device
+
+Please check your security status
+
+Everything is fine.
+
+security problems were found. Please check immediately!
+
+Issue(s) found
+
+Security Check
+
+Your device is secure!
+
+Security Alert!
+
+Warning!
+
+SecureBrowser
+
+My Device
+
+Your license expires in
+
+Your account is expired, touch here to renew your license
+
+My G DATA
+
+Secure QR
+
+Settings
+
+DECLINE
+
+Delete
+
+Battery charging
+
+Not charging
+
+Battery level
+
+Settings
+
+iOS version
+
+No carrier
+
+ of 
+
+ used
+
+Done
+
+EDIT
+
+Only active if ‘Find my device’ is enabled.
+
+Please enter the bookmark's title
+
+ENTER_NAME_AND_URL
+
+Please enter the bookmark's URL
+
+You have to accept the end user license agreement (EULA) to proceed with the registration
+
+PLEASE READ THE EULA
+
+EULA
+
+FORGOT PASSWORD?
+
+Frequently visited
+
+GENERAL
+
+days
+
+Go to settings
+
+HELP
+
+in %.f days
+
+in %.f hours
+
+in %.f minutes
+
+in %.f months
+
+in %.f seconds
+
+in %.f weeks
+
+in %.f years
+
+in 1 minute
+
+in a few seconds
+
+just now
+
+last hour
+
+last month
+
+last week
+
+last year
+
+Last location capture at:
+
+Your license is expired
+
+Your subscription is valid
+
+License valid until
+
+Links
+
+This website could not be loaded. URL is listed on the blacklist.
+
+Access to THE_URL has been blocked for your security.
+
+LISTS
+
+Loading ... Please Wait
+
+LOGIN
+
+ENTER DATA
+
+Login has failed
+
+FIX PASSWORD
+
+FIX USERNAME
+
+FORGOT PASSWORD?
+
+Please enter your password
+
+Please enter your username
+
+Logout
+
+https://www.gdatasoftware.co.uk/mygdata/
+
+https://www.gdata-software.com/mygdata/
+
+NAME
+
+NEEDS_TO_BE_VALID_URL
+
+New browsing experience
+
+The SecureBrowser has been completely reworked, thus giving you an improved browsing experience.
+
+New history
+
+It is now possible to display all open web pages chronologically and to open them again.
+
+Improved tab management
+
+With the new tab management, it is now possible to have multiple incognito tabs at once, while also giving you the option to bookmark opened websites fast and easy.
+
+Improved usability
+
+The new Magnifying Glass-function enables you to open Websites and search terms with ease. The new Magnifying Glass-function enables you to open Websites and search terms with ease. The new Magnifying Glass-function enables you to open Websites and search terms with ease. The new Magnifying Glass-function enables you to open Websites and search terms with ease.
+
+next hour
+
+next month
+
+next week
+
+next year
+
+No internet connection
+
+Without an active internet connection, you will have only limited functionality.
+
+Offline mode has been activated. Please check your connection and try again to deactivate offline mode.
+
+OK
+
+Open in new incognito tab
+
+Open in new tab
+
+Do you want to open the following URL in a new tab?
+
+Access to this website has been blocked for your security. Do you want to continue anyway?
+
+Secure Browser detected a phishing website
+
+Product has already been registered.
+
+Add to clipboard
+
+Add to contacts
+
+Connect to WLAN
+
+Contact could not be saved
+
+Contact was saved!
+
+Do you really want to delete your Secure QR history?
+
+History
+
+New scan
+
+Open in SecureBrowser
+
+QR code scan is not supported. Please check if the security app has permissions to use the camera.
+
+Secure QR
+
+QR-Code unknown
+
+URL is not secure
+
+URL is secure
+
+URL unknown
+
+$(NAME)'s vCard
+
+QR-Code not detected
+
+Read End-user license agreement
+
+Read privacy policy
+
+Real-time location detection
+
+ENTER DATA
+
+A registration error occured, the server gave following reason:
+
+Please enter your first name
+
+FIX EMAIL
+
+Please enter your last name
+
+I agree that the data I have entered and data generated by my use may be stored and used for advertising addressed to me
+
+REGISTER
+
+REGISTRATION
+
+Registration
+
+G DATA ActionCenter
+
+A registration error occured.
+
+Please enter your email address
+
+Remove
+
+Retry
+
+Search engine
+
+SecureBrowser
+
+This is your SecureZone. Only the websites, that you are adding here will be allowed by SecureBrowser
+
+ActionCenter
+
+Device ID
+
+Applock
+
+End-user license agreement
+
+G DATA Account
+
+Privacy Policy
+
+Support
+
+Settings
+
+Share
+
+Offline Mode
+
+Another device has permission to use your G DATA Account. Do you want transfer your account license to this device?
+
+License already in use
+
+Calibrating Fluxcapacitor
+
+Checking Device
+
+Done!
+
+Your license has expired. You need to buy a subscription to use all our premium features. If you choose not to subscribe you'll only have limited access to your Security app.
+
+Logging you in
+
+You're all logged in
+
+Manage devices
+
+Use this device
+
+You've swiped the tab to the left. This means you want to delete the tab. Do you want to proceed?
+
+You've swiped the tab to the right. This means you want to bookmark this page. Do you want to proceed?
+
+tomorrow
+
+Try again
+
+Unlock
+
+The app needs precise location permission, to locate your phone in case of theft. Please enable precise location in the settings.
+
+Precise location is turned off
+
+Please register/login to unlock the premium functions of the app.
+
+URL
+
+Welcome to your new security app. Here's what's new.
+
+Welcome
+
+This is your whitelist. All the websites, that you are adding here will always be permitted by SecureBrowser
+
+Yes
+
+yesterday
+

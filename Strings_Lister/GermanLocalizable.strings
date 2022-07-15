@@ -1,0 +1,988 @@
+/* Created with Localizable Strings Merge, the swiss-army knife for iOS and OS X localization. */
+
+/* AC_APPLOCK_RESET */
+"AC_APPLOCK_RESET" = "Applock Passwort wurde zurückgesetzt.";
+
+/* AC_DEVICE_LOCATED */
+"AC_DEVICE_LOCATED" = "Ihr Gerät wurde lokalisiert";
+
+/* AC_EVENT_HISTORY */
+"AC_EVENT_HISTORY" = "Verlauf";
+
+/* AC_FAILED_LOGIN_ERROR_WAIT_5_MIN */
+"AC_FAILED_LOGIN_ERROR_WAIT_5_MIN" = "Es trat ein Fehler beim Login auf. Bitte versuchen Sie es später erneut.";
+
+/* AC_FAILED_LOGIN_NO_CONNECTION */
+"AC_FAILED_LOGIN_NO_CONNECTION" = "Sie sind zur Zeit nicht mit dem Internet verbunden. Bitte versuchen Sie es später erneut.";
+
+/* AC_FAILED_LOGIN_USER_NOT_FOUND */
+"AC_FAILED_LOGIN_USER_NOT_FOUND" = "Der Benutzername oder das Passwort sind nicht korrekt. Bitte überprüfen Sie Ihre Anmeldedaten und versuchen es erneut.";
+
+/* AC_FAILED_LOGIN_WRONG_DATA */
+"AC_FAILED_LOGIN_WRONG_DATA" = "Der Benutzername oder das Passwort sind nicht korrekt. Bitte überprüfen Sie Ihre Anmeldedaten und versuchen es erneut.";
+
+/* AC_FAILED_LOGIN_WRONG_LOGIN */
+"AC_FAILED_LOGIN_WRONG_LOGIN" = "Der Login ist fehlgeschlagen. Bitte versuchen Sie es später erneut.";
+
+/* AC_FAILED_REGISTERATION_EMAIL_ALREADY_EXISTS */
+"AC_FAILED_REGISTERATION_EMAIL_ALREADY_EXISTS" = "Die eingegebene E-Mail-Adresse ist bereits im System vorhanden.";
+
+/* AC_FAILED_REGISTRATION_ERROR_WAIT_5_MIN */
+"AC_FAILED_REGISTRATION_ERROR_WAIT_5_MIN" = "Es trat ein Fehler bei der Registrierung auf. Bitte versuchen Sie es später erneut.";
+
+/* AC_FAILED_REGISTRATION_WRONG_REGISTRATION */
+"AC_FAILED_REGISTRATION_WRONG_REGISTRATION" = "Die Registrierung ist fehlgeschlagen. Bitte versuchen Sie es später erneut.";
+
+/* AC_FLIGHT_MODE */
+"AC_FLIGHT_MODE" = "Der Flugmodus wurde aktiviert";
+
+/* AC_LOGIN_FIX_MAIL */
+"AC_LOGIN_FIX_MAIL" = "Fix E-Mail";
+
+/* AC_LOGIN_SUCCESS_INFO */
+"AC_LOGIN_SUCCESS_INFO" = "Herzlich willkommen beim Action Center  \n Ihre Logindaten sind:";
+
+/* AC_LOW_BATTERY */
+"AC_LOW_BATTERY" = "Geringe Batterieladung";
+
+/* AC_NO_EVENTS */
+"AC_NO_EVENTS" = "Keine Ereignisse gefunden.";
+
+/* AC_PHISHING_BLOCKING_PAGE */
+"AC_PHISHING_BLOCKING_PAGE" = "https://ac.gdata.de/webprotection/blockpage_de.html";
+
+/* AC_PLAYED_TONE */
+"AC_PLAYED_TONE" = "Ein Alarmton wurde über das ActionCenter ausgelöst";
+
+/* AC_REGISTER_EMAIL */
+"AC_REGISTER_EMAIL" = "E-Mail";
+
+/* AC_REGISTER_PW */
+"AC_REGISTER_PW" = "Passwort";
+
+/* AC_REGISTER_PW_NEEDS_LETTER_AND_NUMBER */
+"AC_REGISTER_PW_NEEDS_LETTER_AND_NUMBER" = "Das Passwort muss mindestens 8 Zeichen lang sein und sich aus Groß- und Kleinbuchstaben sowie Zahlen zusammensetzen.";
+
+/* AC_REGISTER_PW_NO_MATCH */
+"AC_REGISTER_PW_NO_MATCH" = "Passwörter nicht gleich";
+
+/* AC_REGISTER_REPEAT_PW */
+"AC_REGISTER_REPEAT_PW" = "Passwortwiederholung";
+
+/* AC_SET_MUTE */
+"AC_SET_MUTE" = "Das Gerät wurde über das ActionCenter stumm geschaltet";
+
+/* AC_SIM_CHANGED */
+"AC_SIM_CHANGED" = "Die SIM-Karte wurde gewechselt";
+
+/* AC_USER_CHANGED */
+"AC_USER_CHANGED" = "Der Benutzer wurde erfolgreich gewechselt.";
+
+/* ACCEPT */
+"ACCEPT" = "AKZEPTIEREN";
+
+/* ACCOUNT_ABORTED_RESTORE */
+"ACCOUNT_ABORTED_RESTORE" = "Ein gültiges Abonnement wurde nicht gefunden. Wenn Sie denken, dass dies ein Fehler ist, versuchen Sie es bitte erneut oder kontaktieren Sie den Support.";
+
+/* CHANGE_USER */
+"ACCOUNT_CHANGE_USER" = "Benutzer wechseln";
+
+/* ACCOUNT_COMPUTER_ID_CHANGED */
+"ACCOUNT_COMPUTER_ID_CHANGED" = "Ein anderes Gerät ist mit Ihrem G DATA Account verbunden. Möchten Sie dieses Gerät mit Ihrem Account verbinden und das andere ausloggen?";
+
+/* ACCOUNT_ERROR_OCCURED */
+"ACCOUNT_ERROR_OCCURED" = "Ein unbekannter Fehler trat auf";
+
+/* ACCOUNT_INVALID_LOGIN
+   LICENSE_EXPIRED */
+"ACCOUNT_INVALID_LOGIN" = "Die Zugangsdaten sind ungültig.";
+
+/* ACCOUNT_LICENSE_EXPIRED */
+"ACCOUNT_LICENSE_EXPIRED" = "Die zu Ihrem Account gehörige Lizenz ist abgelaufen!
+
+Kaufen Sie jetzt eine neue Lizenz und nutzen Sie den vollen Funktionsumfang der G DATA MobileSecurity.
+
+Schluss mit Phishing-Fallen: SecureQR und Secure Browser schützen Sie optimal vor gefälschten Webseiten.
+
+Vertrauen Sie auf deutschen Datenschutz mit dem G DATA eigenem ActionCenter und FindMyDevice.";
+
+/* ACCOUNT_LICENSE_FAULT */
+"ACCOUNT_LICENSE_FAULT" = "Anzahl der gültigen Geräte überschritten. Verwalten Sie Ihre Geräte auf My G DATA oder fahren Sie mit begrenztem Zugriff auf die Funktionen der Sicherheit-App fort.";
+
+/* ACCOUNT_LICENSE_FAULT_MYGDATA */
+"ACCOUNT_LICENSE_FAULT_MYGDATA" = "Anzahl der gültigen Geräte überschritten. Verwalten Sie Ihre Geräte auf My G DATA oder fahren Sie mit begrenztem Zugriff auf die Funktionen der Sicherheit-App fort.";
+
+/* ACCOUNT_LICENSE_FAULT_SUPPORT */
+"ACCOUNT_LICENSE_FAULT_SUPPORT" = "Eine Übertragung der Lizenz auf dieses Gerät ist nicht möglich. Bitte kontaktieren Sie den Support.";
+
+/* ACCOUNT_LICENSE_SUBTEXT */
+"ACCOUNT_LICENSE_SUBTEXT" = "Die Abonnements werden automatisch verlängert, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor dem Ende der laufenden Periode beendet wurde. 15,99 / Jahr";
+
+/* ACCOUNT_LICENSE_TITLE */
+"ACCOUNT_LICENSE_TITLE" = "G DATA Mobile Security: Premium";
+
+/* LOADING_WAIT */
+"ACCOUNT_LOADING_WAIT" = "Daten werden geladen ... Bitte warten ...";
+
+/* ACCOUNT_MANAGE_LICENSE */
+"ACCOUNT_MANAGE_LICENSE" = "Verwalten Ihrer Abonnements";
+
+/* ACCOUNT_REFRESH_TITLE */
+"ACCOUNT_REFRESH_TITLE" = "Aktualisieren";
+
+/* ACCOUNT_SERVER_NOT_AVAILABLE */
+"ACCOUNT_SERVER_NOT_AVAILABLE" = "Der G DATA Server konnte nicht erreicht werden, bitte versuchen Sie es später erneut";
+
+/* ACCOUNT_TITLE */
+"ACCOUNT_TITLE" = "G DATA Account";
+
+/* ACCOUNT_UPDATE_LICENSE */
+"ACCOUNT_UPDATE_LICENSE" = "LIZENZ INFORMATIONEN";
+
+/* ACCOUNT_WANT_LOGOUT?
+   WANT_LOGOUT? */
+"ACCOUNT_WANT_LOGOUT?" = "Möchten Sie sich wirklich ausloggen?";
+
+/* WANT_LOGOUT_TITLE */
+"ACCOUNT_WANT_LOGOUT_TITLE" = "Logout";
+
+/* ACTION_CENTER */
+"ACTION_CENTER" = "ActionCenter";
+
+/* ACTIONCENTER_SUBTITLE */
+"ACTIONCENTER_SUBTITLE" = "Kontrollieren Sie Ihr Gerät mit dem G DATA ActionCenter.";
+
+/* ALERT_ATTENTION */
+"ALERT_ATTENTION" = "Achtung!";
+
+/* ALERT_BACKGROUNDFETCH_DISABLED */
+"ALERT_BACKGROUNDFETCH_DISABLED" = "G DATA Sicherheit funktioniert nicht ohne die Aktivierung der Hintergrundaktualisierung. Um die Hintergrundaktualisierung zu aktivieren, wechseln Sie zu den Einstellungen > Allgemein > Hintergrundaktualisierung";
+
+/* ALERT_BUY_LICENSE */
+"ALERT_BUY_LICENSE" = "Jetzt abonnieren für $x Jahr";
+
+/* ALERT_LIMITED_DASHBOARD */
+"ALERT_LIMITED_DASHBOARD" = "Limitierte Funktionalität";
+
+/* ALERT_LOCATION_NOT_ENABLED */
+"ALERT_LOCATION_NOT_ENABLED" = "Ortungsdienste aktivieren";
+
+/* ALERT_LOCATION_NOT_ENABLED_MSG */
+"ALERT_LOCATION_NOT_ENABLED_MSG" = "Um die Premium-Funktionen der G DATA Mobile Security verwenden zu können, müssen Sie Ihre Ortungsdienste aktivieren. Die Ortungsdienste aktieren Sie unter Einstellungen -> Datenschutz -> Ortungsdienste";
+
+/* ANTI_THEFT */
+"ANTI_THEFT" = "Find my device";
+
+/* ANTI_THEFT_ENABLE_ALL */
+"ANTI_THEFT_ENABLE_ALL" = "Find my device aktivieren";
+
+/* ANTI_THEFT_ENABLE_ALL_DESCRIPTION */
+"ANTI_THEFT_ENABLE_ALL_DESCRIPTION" = "Ihr Gerät wird lokalisiert und Ihre Position an das G DATA ActionCenter übermittelt";
+
+/* ANTI_THEFT_FLIGHTMODE_DESCRIPTION */
+"ANTI_THEFT_FLIGHTMODE_DESCRIPTION" = "Sie erhalten eine E-Mail wenn das Telefon den Flugmodus verlässt";
+
+/* ANTI_THEFT_FLIGHTMODE_DETECTION */
+"ANTI_THEFT_FLIGHTMODE_DETECTION" = "Flugmodus";
+
+/* ANTI_THEFT_LOCATE_WHEN_LOW_BATTERY */
+"ANTI_THEFT_LOCATE_WHEN_LOW_BATTERY" = "Geringe Batterieladung";
+
+/* ANTI_THEFT_LOW_BATTERY_DESCRIPTION */
+"ANTI_THEFT_LOW_BATTERY_DESCRIPTION" = "Sie erhalten eine E-Mail wenn die Batterieladung unter 20% fällt";
+
+/* ANTI_THEFT_SIM_CARD_REMOVAL_DESCRIPTION */
+"ANTI_THEFT_SIM_CARD_REMOVAL_DESCRIPTION" = "Sie erhalten eine E-Mail wenn die SIM-Karte entfernt wird.";
+
+/* ANTI_THEFT_SIM_CARD_REMOVAL_DETECTION */
+"ANTI_THEFT_SIM_CARD_REMOVAL_DETECTION" = "Die SIM-Karte wurde entfernt";
+
+/* ANTITHEFT_ENERGY_SAVER */
+"ANTITHEFT_ENERGY_SAVER" = "Energiesparmodus";
+
+/* ANTITHEFT_ENERGY_SAVER_DESCRIPTION */
+"ANTITHEFT_ENERGY_SAVER_DESCRIPTION" = "Um den Stromverbrauch zu senken, wird der Status der aktivierten Funktionen nur alle zwei Minuten aktualisiert, anstatt in Echtzeit.";
+
+/* APP_NAME */
+"APP_NAME" = "Mobile Security";
+
+/* ACCESS_TO_ACCOUNT */
+"APPLOCK_ACCESS_TO_ACCOUNT" = "Account";
+
+/* ACCESS_TO_ANTITHEFT */
+"APPLOCK_ACCESS_TO_ANTITHEFT" = "Find my device";
+
+/* ACCESS_TO_APP */
+"APPLOCK_ACCESS_TO_APP" = "App";
+
+/* ACCESS_TO_QR */
+"APPLOCK_ACCESS_TO_QR" = "Secure QR";
+
+/* ACCESS_TO_SB */
+"APPLOCK_ACCESS_TO_SB" = "SecureBrowser";
+
+/* ACCESS_TO_SB_SETTINGS */
+"APPLOCK_ACCESS_TO_SB_SETTINGS" = "SecureBrowser Einstellungen";
+
+/* ACCESS_TO_SETTINGS */
+"APPLOCK_ACCESS_TO_SETTINGS" = "Zugang zu den Einstellungen";
+
+/* APPLOCK_ACTIVATE */
+"APPLOCK_ACTIVATE" = "Applock aktivieren";
+
+/* APPLOCK_BIOEMTRICS_TITLE */
+"APPLOCK_BIOEMTRICS_TITLE" = "WEITERE ENTSPERRMÖGLICHKEITEN";
+
+/* ACCESS_REASON */
+"APPLOCK_BIOMETRICS_ACCESS_REASON" = "Sicherheit will Ihr Gerät mit TouchID entsperren";
+
+/* APPLOCK_ENTER_OLD_PW */
+"APPLOCK_ENTER_OLD_PW" = "Bitte geben Sie das alte Passwort ein";
+
+/* APPLOCK_ENTER_PW */
+"APPLOCK_ENTER_PW" = "Bitte geben Sie das Passwort ein";
+
+/* APPLOCK_ENTER_PW_AGAIN */
+"APPLOCK_ENTER_PW_AGAIN" = "Bitte geben Sie das Passwort erneut ein";
+
+/* APPLOCK_NEW_PASSWORD_SET */
+"APPLOCK_NEW_PASSWORD_SET" = "Ihr neues Passwort wurde gesetzt";
+
+/* APPLOCK_OLD_PASSWORD_NOT_CORRECT */
+"APPLOCK_OLD_PASSWORD_NOT_CORRECT" = "Das alte Passwort ist nicht korrekt";
+
+/* PASSWORDS_PASSWORDS_DONT_MATCH */
+"APPLOCK_PASSWORDS_DONT_MATCH" = "Die Passwörter stimmen nicht überein";
+
+/* PASSWORDS_NOT_LONG_ENOUGH */
+"APPLOCK_PASSWORDS_NOT_LONG_ENOUGH" = "Die Passwörter sind zu kurz";
+
+/* APPLOCK_RESET_ERROR */
+"APPLOCK_RESET_ERROR" = "Fehler";
+
+/* APPLOCK_RESET_MESSAGE */
+"APPLOCK_RESET_MESSAGE" = "Bitte neues Passwort eintragen";
+
+/* applock_reset_notification */
+"applock_reset_notification" = "Anfrage für das Zurücksetzen Ihres Applock Passworts erhalten. Öffnen Sie die G DATA Mobile Security App um ein neues Applock Passwort zu vergeben.";
+
+/* APPLOCK_RESET_PASSWORD */
+"APPLOCK_RESET_PASSWORD" = "Um das Passwort zurücksetzen zu können, muss Find my device aktiviert sein.";
+
+/* APPLOCK_RESET_SAVE */
+"APPLOCK_RESET_SAVE" = "Speichern";
+
+/* APPLOCK_RESET_SUCCESS */
+"APPLOCK_RESET_SUCCESS" = "Applock Passwort wurde erfolgreich zurückgesetzt.";
+
+/* APPLOCK_RESET_TITLE */
+"APPLOCK_RESET_TITLE" = "Applock Passwort zurücksetzen";
+
+/* APPLOCK_RESET_TRY_AGAIN */
+"APPLOCK_RESET_TRY_AGAIN" = "Erneut versuchen";
+
+/* APPLOCK_SET_PASSWORD_BUTTON_TITLE
+   SET_PASSWORD_BUTTON_TITLE */
+"APPLOCK_SET_PASSWORD_BUTTON_TITLE" = "Passwort setzen";
+
+/* APPLOCK_TITLE */
+"APPLOCK_TITLE" = "Applock";
+
+/* UNLOCK */
+"APPLOCK_UNLOCK" = "Entsperren";
+
+/* APPLOCK_USE_BIOMETRIC */
+"APPLOCK_USE_BIOMETRIC" = "Face ID / Touch ID benutzen";
+
+/* WHAT_SECURED */
+"APPLOCK_WHAT_SECURED" = "Welche Inhalte sollen gesichert werden?";
+
+/* APPLOCK_WRONG_PASSWORD */
+"APPLOCK_WRONG_PASSWORD" = "Ihr Passwort ist falsch.";
+
+/* BLACKLIST_HELP */
+"BLACKLIST_HELP" = "Dies ist Ihre Blacklist. Alle hier definierten Webseiten werden von dem SecureBrowser blockiert.";
+
+/* BLOCKED_ACCESS_SIDELOADS */
+"BLOCKED_ACCESS_SIDELOADS" = "SecureBrowser hat %@ sideloads zu Ihrer Sicherheit blockiert.";
+
+/* BOOKMARK_IMPORT_FAILED */
+"BOOKMARK_IMPORT_FAILED" = "Importieren der Lesezeichen fehlgeschlagen.";
+
+/* BOOKMARK_IMPORT_SUCCEED */
+"BOOKMARK_IMPORT_SUCCEED" = "Importieren der Lesezeichen erfolgreich.";
+
+/* BOOKMARK_IMPORTED_ON */
+"BOOKMARK_IMPORTED_ON" = "Imported on ";
+
+/* BOOKMARK_MOVE_TO_BLACKLIST */
+"BOOKMARK_MOVE_TO_BLACKLIST" = "Lesezeichen existieren bereits auf der Whitelist. Sollen sie auf die Blacklist verschoben werden?";
+
+/* BOOKMARK_MOVE_TO_WHITELIST */
+"BOOKMARK_MOVE_TO_WHITELIST" = "Lesezeichen existieren bereits auf der Blacklist.
+Sollen sie auf die Whitelist verschoben werden?";
+
+/* BROSWER_HISTORY_DELETED */
+"BROSWER_HISTORY_DELETED" = "History gelöscht";
+
+/* BROSWER_TABS_DELETED */
+"BROSWER_TABS_DELETED" = "Tabs gelöscht";
+
+/* BROWSER_ACCESSCONTROL */
+"BROWSER_ACCESSCONTROL" = "SecureZone";
+
+/* BROWSER_ADD_TO_BLACKLIST */
+"BROWSER_ADD_TO_BLACKLIST" = "Zur Blacklist hinzufügen";
+
+/* BROWSER_ADD_TO_SECUREZONE */
+"BROWSER_ADD_TO_SECUREZONE" = "Zur SecureZone hinzufügen";
+
+/* BROWSER_ADD_TO_WHITELIST */
+"BROWSER_ADD_TO_WHITELIST" = "Zur Whitelist hinzufügen";
+
+/* BROWSER_BLACKLIST */
+"BROWSER_BLACKLIST" = "Blacklist";
+
+/* BROWSER_BLACKLIST_DESCRIPTION */
+"BROWSER_BLACKLIST_DESCRIPTION" = "Eingestellte Seiten können nicht besucht werden";
+
+/* BROWSER_BOOKMARK_ADD_CURRENT_PAGE */
+"BROWSER_BOOKMARK_ADD_CURRENT_PAGE" = "Aktuelle Webseite hinzufügen";
+
+/* BROWSER_BOOKMARK_ADD_FOLDER */
+"BROWSER_BOOKMARK_ADD_FOLDER" = "Neuen Ordner erstellen";
+
+/* BROWSER_BOOKMARK_ADD_MESSAGE */
+"BROWSER_BOOKMARK_ADD_MESSAGE" = "Möchten Sie die aktuelle Seite zu Ihren Lesezeichen hinzufügen, einen neuen Ordner erstellen oder ein neues Lesezeichen erstellen?";
+
+/* BROWSER_BOOKMARK_ADD_NEW_PAGE */
+"BROWSER_BOOKMARK_ADD_NEW_PAGE" = "Neue URL eingeben";
+
+/* BROWSER_BOOKMARK_FOLDER_DELETE */
+"BROWSER_BOOKMARK_FOLDER_DELETE" = "Möchten Sie diesen Ordner mit allen Unterordnern und allen Lesezeichen löschen, die sich in diesen befinden?";
+
+/* BROWSER_BOOKMARK_FOLDER_RENAME */
+"BROWSER_BOOKMARK_FOLDER_RENAME" = "Bitte geben Sie einen neuen Namen für diesen Ordner ein";
+
+/* BROWSER_BOOKMARKS */
+"BROWSER_BOOKMARKS" = "Lesezeichen";
+
+/* BROWSER_BOOKMARKS_EDIT */
+"BROWSER_BOOKMARKS_EDIT" = "Lesezeichen bearbeiten";
+
+/* BROWSER_BOOKMARKS_EXPORT */
+"BROWSER_BOOKMARKS_EXPORT" = "Lesezeichen exportieren";
+
+/* BROWSER_BOOKMARKS_FOLDERS_HEADER */
+"BROWSER_BOOKMARKS_FOLDERS_HEADER" = "Ordner";
+
+/* BROWSER_BOOKMARKS_HEADER */
+"BROWSER_BOOKMARKS_HEADER" = "Lesezeichen";
+
+/* BROWSER_BOOKMARKS_IMPORT */
+"BROWSER_BOOKMARKS_IMPORT" = "Lesezeichen importieren";
+
+/* BROWSER_BOOKMARKS_SAVE */
+"BROWSER_BOOKMARKS_SAVE" = "Speichern";
+
+/* BROWSER_CHILDPROTECTION */
+"BROWSER_CHILDPROTECTION" = "Kindersicherung";
+
+/* BROWSER_CHILDPROTECTION_SUBTITLE */
+"BROWSER_CHILDPROTECTION_SUBTITLE" = "Sicheres surfen powered by fragFINN";
+
+/* BROWSER_CLEAR_CACHE */
+"BROWSER_CLEAR_CACHE" = "Cache löschen";
+
+/* BROWSER_DELETE_ALLTABS */
+"BROWSER_DELETE_ALLTABS" = "Alle Tabs löschen";
+
+/* BROWSER_DELETE_HISTORY */
+"BROWSER_DELETE_HISTORY" = "Browserverlauf löschen";
+
+/* BROWSER_DELETEHISTORY */
+"BROWSER_DELETEHISTORY" = "Möchten Sie wirklich den Browserverlauf löschen?";
+
+/* BROWSER_DELETETABS */
+"BROWSER_DELETETABS" = "Möchten Sie wirklich alle Tabs löschen?";
+
+/* BROWSER_EDIT_BOOKMARKS */
+"BROWSER_EDIT_BOOKMARKS" = "Lesezeichen editieren";
+
+/* BROWSER_EMPTY_FIELDS */
+"BROWSER_EMPTY_FIELDS" = "Bitte füllen Sie alle Felder aus";
+
+/* BROWSER_ENTER_URL */
+"BROWSER_ENTER_URL" = "Bitte geben Sie eine URL ein.";
+
+/* BROWSER_FULLSCREEN */
+"BROWSER_FULLSCREEN" = "Fullscreenmodus";
+
+/* BROWSER_INCOGNITO */
+"BROWSER_INCOGNITO" = "Privates Surfen";
+
+/* BROWSER_LIST_ADD */
+"BROWSER_LIST_ADD" = "Hinzufügen";
+
+/* BROWSER_LIST_EMPTY_FIELDS */
+"BROWSER_LIST_EMPTY_FIELDS" = "Bitte geben Sie eine URL ein.";
+
+/* BROWSER_LIST_MESSAGE */
+"BROWSER_LIST_MESSAGE" = "Möchten Sie ein neues Objekt auf diese Liste hinzufügen?";
+
+/* BROWSER_NEW_TAB */
+"BROWSER_NEW_TAB" = "Neuer Tab";
+
+/* BROWSER_PHISHING_CONTINUE_TITLE */
+"BROWSER_PHISHING_CONTINUE_TITLE" = "Weiter";
+
+/* BROWSER_PLACEHOLDER */
+"BROWSER_PLACEHOLDER" = "Geben Sie einen Suchbegriff oder eine URL ein";
+
+/* BROWSER_REGULAR */
+"BROWSER_REGULAR" = "Standard Modus";
+
+/* BROWSER_SEARCH_ALERT_MESSAGE */
+"BROWSER_SEARCH_ALERT_MESSAGE" = "Bitte wählen Sie eine Suchmaschine aus";
+
+/* BROWSER_SEARCH_ALERT_TITLE */
+"BROWSER_SEARCH_ALERT_TITLE" = "SecureSearch";
+
+/* BROWSER_SEARCHENGINE */
+"BROWSER_SEARCH_ENGINE" = "Suchmaschine";
+
+/* BROWSER_SECUREZONE_DESCRIPTION */
+"BROWSER_SECUREZONE_DESCRIPTION" = "Stellen Sie Ihre sichere Browserumgebung ein";
+
+/* BROWSER_SETTINGS */
+"BROWSER_SETTINGS" = "Einstellungen";
+
+/* BROWSER_SETTINGS_ADVANCED */
+"BROWSER_SETTINGS_ADVANCED" = "Fortgeschritten";
+
+/* BROWSER_SETTINGS_BASIC */
+"BROWSER_SETTINGS_BASIC" = "Standard";
+
+/* BROWSER_SETTINGS_CONTENT */
+"BROWSER_SETTINGS_CONTENT" = "Inhalte";
+
+/* BROWSER_START_BROWSING */
+"BROWSER_START_BROWSING" = "Geben Sie einen Suchbegriff oder eine URL ein";
+
+/* BROWSER_TAB_BOOKMARK */
+"BROWSER_TAB_BOOKMARK" = "Lesezeichen wurde hinzugefügt";
+
+/* BROWSER_TAB_DELETED */
+"BROWSER_TAB_DELETED" = "Tab gelöscht";
+
+/* BROWSER_TABS_DELETED */
+"BROWSER_TABS_DELETED" = "Tabs gelöscht";
+
+/* BROWSER_URL_NOT_CHILDSAFE */
+"BROWSER_URL_NOT_CHILDSAFE" = "URL #URL# ist nicht kindersicher.";
+
+/* BROWSER_WHITELIST */
+"BROWSER_WHITELIST" = "Whitelist";
+
+/* BROWSER_WHITELIST_DESCRIPTION */
+"BROWSER_WHITELIST_DESCRIPTION" = "Stellen Sie ein, welche Webseiten immer besucht werden können";
+
+/* BROWSERTABS_TITLE */
+"BROWSERTABS_TITLE" = "Tabs";
+
+/* BTN_CLOSE */
+"BTN_CLOSE" = "Schließen";
+
+/* CANCEL */
+"CANCEL" = "Abbrechen";
+
+/* CHECK_ACTIONCENTER */
+"CHECK_ACTIONCENTER" = "Sie sind mit dem ActionCenter verbunden. Ihr Gerät ist im Falle eines Diebstahls geschützt";
+
+/* CHECK_ACTIONCENTER_TITLE */
+"CHECK_ACTIONCENTER_TITLE" = "Find my device";
+
+/* CHECK_IOS_VERSION_CURRENT_MESSAGE */
+"CHECK_IOS_VERSION_CURRENT_MESSAGE" = "Die installierte iOS Version ist aktuell";
+
+/* CHECK_IOS_VERSION_NOTCURRENT_MESSAGE */
+"CHECK_IOS_VERSION_NOTCURRENT_MESSAGE" = "Ihre iOS-Version ist veraltet. Prüfen Sie, ob ein Systemupdate verfügbar ist.";
+
+/* CHECK_IOS_VERSION_TITLE */
+"CHECK_IOS_VERSION_TITLE" = "iOS Versionsüberprüfung";
+
+/* CHECK_IS_JAILBROKEN */
+"CHECK_IS_JAILBROKEN" = "Dieses Gerät nutzt eine modifizierte iOS Version. Dies ist ein hohes Sicherheitsrisiko";
+
+/* CHECK_JAILBREAK_TITLE */
+"CHECK_JAILBREAK_TITLE" = "Jailbreak";
+
+/* CHECK_NO_ACTIONCENTER */
+"CHECK_NO_ACTIONCENTER" = "'Find my device' ist deaktiviert. Für bestmöglichen Schutz, schalten Sie die Funktion ein.";
+
+/* CHECK_NO_JAILBREAK */
+"CHECK_NO_JAILBREAK" = "No Jailbreak was detected. Everything is ok!";
+
+/* CHOOSE_ACTION */
+"CHOOSE_ACTION" = "Aktion auswählen";
+
+/* CLOSE_ALL */
+"CLOSE_ALL" = "Alle schließen";
+
+/* CLOSING_WARNING */
+"CLOSING_WARNING" = "G DATA Mobile Security ist nicht mehr aktiviert. Öffnen Sie Mobile Security erneut, damit die Fernwartungsfunktionen weiterhin genutzt werden können.";
+
+/* CONFIRM_YOUR_EMAIL_ACTIONCENTER */
+"CONFIRM_YOUR_EMAIL_ACTIONCENTER" = "Vielen Dank für Ihre Anmeldung beim G DATA ActionCenter.\n\nSie erhalten in Kürze eine Bestätigungs-E-Mail. Bitte klicken Sie auf den enthaltenen Link, um Ihre Registrierung zu bestätigen.";
+
+/* ANTI_THEFT
+   DASHBOARD_ANTITHEFT */
+"DASHBOARD_ANTITHEFT" = "Find my device";
+
+/* DASHBOARD_BAR_MESSAGE_GRAY */
+"DASHBOARD_BAR_MESSAGE_GRAY" = "Bitte überprüfen Sie Ihren Sicherheitsstatus";
+
+/* DASHBOARD_BAR_MESSAGE_GREEN */
+"DASHBOARD_BAR_MESSAGE_GREEN" = "Alles ist OK!";
+
+/* DASHBOARD_BAR_MESSAGE_RED */
+"DASHBOARD_BAR_MESSAGE_RED" = "Sicherheitsprobleme wurden gefunden. Bitte überprüfen Sie diese sofort!";
+
+/* DASHBOARD_BAR_MESSAGE_YELLOW */
+"DASHBOARD_BAR_MESSAGE_YELLOW" = "Problem(e) gefunden";
+
+/* DASHBOARD_BAR_TITLE_GRAY */
+"DASHBOARD_BAR_TITLE_GRAY" = "Sicherheitsüberprüfung";
+
+/* DASHBOARD_BAR_TITLE_GREEN */
+"DASHBOARD_BAR_TITLE_GREEN" = "Ihr Gerät ist sicher!";
+
+/* DASHBOARD_BAR_TITLE_RED */
+"DASHBOARD_BAR_TITLE_RED" = "Sicherheitsalarm!";
+
+/* DASHBOARD_BAR_TITLE_YELLOW */
+"DASHBOARD_BAR_TITLE_YELLOW" = "Achtung!";
+
+/* DASHBOARD_BROWSER */
+"DASHBOARD_BROWSER" = "SecureBrowser";
+
+/* DASHBOARD_DEVICE */
+"DASHBOARD_DEVICE" = "My Device";
+
+/* DASHBOARD_LICENSE_EXPIRES_IN */
+"DASHBOARD_LICENSE_EXPIRES_IN" = "Ihre Lizenz läuft ab in:";
+
+/* DASHBOARD_LIMITED_ACCOUNT */
+"DASHBOARD_LIMITED_ACCOUNT" = "Ihr Account ist abgelaufen bitte drücken Sie hier um Ihre Lizenz zu erneuern";
+
+/* DASHBOARD_MYGDATA */
+"DASHBOARD_MYGDATA" = "My G DATA";
+
+/* DASHBAORD_QRCODE */
+"DASHBOARD_QRCODE" = "Secure QR";
+
+/* DASHBOARD_SETTINGS */
+"DASHBOARD_SETTINGS" = "Einstellungen";
+
+/* DECLINE */
+"DECLINE" = "ABLEHNEN";
+
+/* DELETE */
+"DELETE" = "Löschen";
+
+/* DEVICE_BATTERY_CHARGING */
+"DEVICE_BATTERY_CHARGING" = "Batterie wird geladen";
+
+/* DEVICE_BATTERY_NOT_CHARGING */
+"DEVICE_BATTERY_NOT_CHARGING" = "Batterie wird nicht geladen";
+
+/* DEVICE_CHARGE */
+"DEVICE_CHARGE" = "Batteriestatus";
+
+/* DEVICE_GENERAL_SETTINGS */
+"DEVICE_GENERAL_SETTINGS" = "Einstellungen";
+
+/* DEVICE_IOS_VERSION */
+"DEVICE_IOS_VERSION" = "iOS Version";
+
+/* DEVICE_NO_CARRIER */
+"DEVICE_NO_CARRIER" = "Kein Netzbetreiber";
+
+/* DEVICE_OF_STRING */
+"DEVICE_OF_STRING" = " von ";
+
+/* DEVICE_USED_STRING */
+"DEVICE_USED_STRING" = " benutzt";
+
+/* DONE */
+"DONE" = "Fertig";
+
+/* ENABLE_ANTI_THEFT_FOR_TRACKING */
+"ENABLE_ANTI_THEFT_FOR_TRACKING" = "Nur aktiv, wenn 'Find my Device' aktiviert ist.";
+
+/* ENABLE_LIST */
+"ENABLE_LIST" = "Liste aktivieren";
+
+/* ENTER_NAME */
+"ENTER_NAME" = "Bitte geben Sie den Titel ein";
+
+/* ENTER_URL */
+"ENTER_URL" = "Bitte geben Sie die URL ein";
+
+/* EULA_DECLINE_MESSAGE */
+"EULA_DECLINE_MESSAGE" = "Sie müssen die Endnutzerlizenzvereinbarung (EULA) akzeptieren um mit der Registrierung fortzufahren.";
+
+/* EULA_READ */
+"EULA_READ" = "BITTE LESEN SIE DIE EULA";
+
+/* EULA_TITLE */
+"EULA_TITLE" = "EULA";
+
+/* FORGOT_PW */
+"FORGOT_PW" = "PASSWORT VERGESSEN?";
+
+/* FREQUENTLY_VISITED */
+"FREQUENTLY_VISITED" = "Häufig besucht";
+
+/* GENERAL */
+"GENERAL" = "ALLGEMEIN";
+
+/* GENERIC_DAYS */
+"GENERIC_DAYS" = "Tagen";
+
+/* GO_TO_SETTINGS */
+"GO_TO_SETTINGS" = "Zu den Einstellungen";
+
+/* HELP */
+"HELP" = "HILFE";
+
+/* LAST_TIME_LOCATED */
+"LAST_TIME_LOCATED" = "Letzte Standorterfassung am:";
+
+/* LICENSE_EXPIRED */
+"LICENSE_EXPIRED" = "Ihre Lizenz ist abgelaufen";
+
+/* LICENSE_VALID_SUBSCRIPTION */
+"LICENSE_VALID_SUBSCRIPTION" = "Sie haben ein gültiges Abo";
+
+/* LICENSE_VALID_UNTIL */
+"LICENSE_VALID_UNTIL" = "Ihre Lizenz ist gültig bis: ";
+
+/* LINKS */
+"LINKS" = "Links";
+
+/* LIST_IN_BLACK */
+"LIST_IN_BLACK" = "Diese Webseite konnte nicht geladen werden. URL befindet sich auf der Blacklist";
+
+/* LIST_NOT_IN_ACCESS */
+"LIST_NOT_IN_ACCESS" = "Zugriff auf THE_URL wurde zu Ihrer Sicherheit blockiert.";
+
+/* LOADING_WAIT */
+"LOADING_WAIT" = "Ladevorgang .... Bitte warten .... ";
+
+/* LOGIN_BUTTON_LOGIN */
+"LOGIN_BUTTON_LOGIN" = "LOGIN";
+
+/* LOGIN_ENTER_DATA */
+"LOGIN_ENTER_DATA" = "DATEN EINGEBEN";
+
+/* LOGIN_FAILED */
+"LOGIN_FAILED" = "Login fehlgeschlagen";
+
+/* LOGIN_FIX_PW */
+"LOGIN_FIX_PW" = "FIX PASSWORT";
+
+/* LOGIN_FIX_USER */
+"LOGIN_FIX_USER" = "FIX BENUTZERNAME";
+
+/* LOGIN_FORGOT_PW */
+"LOGIN_FORGOT_PW" = "PASSWORT VERGESSEN?";
+
+/* LOGIN_PASSWORD */
+"LOGIN_PASSWORD" = "Bitte geben Sie Ihr Passwort ein";
+
+/* LOGIN_USERNAME */
+"LOGIN_USERNAME" = "Bitte geben Sie Ihren Benutzernamen ein";
+
+/* LOGOUT */
+"LOGOUT" = "Logout";
+
+/* MY_GDATA_URL */
+"MY_GDATA_URL" = "https://www.gdata.de/mygdata/";
+
+/* MY_GDATA_URL_US */
+"MY_GDATA_URL_US" = "MY_GDATA_URL_US";
+
+/* NEWS_PRECISE_LOCATION */
+"NEWS_PRECISE_LOCATION" = "iOS 14";
+
+/* NEWS_PRECISE_LOCATION_MSG */
+"NEWS_PRECISE_LOCATION_MSG" = "Mit iOS 14 ist es möglich zwischen einer präzisen und weniger präzisen Ortung zu wählen. Um Ihnen einen bestmöglichen Schutz zu bieten, haben wir zeigen wir Ihnen eine Warnung im Dashboard an wenn die Genauigkeit zu niedrig ist.";
+
+/* NEWS_BROWSING_EXPERIENCE */
+"NEWS_BROWSING_EXPERIENCE" = "Neue Browsererfahrung";
+
+/* NEWS_BROWSING_EXPERIENCE_MSG */
+"NEWS_BROWSING_EXPERIENCE_MSG" = "Durch eine komplette Überarbeitung des SecureBrowsers ist nun schnelleres Surfen möglich.";
+
+/* NEWS_USABILITY */
+"NEWS_USABILITY" = "Bessere Bedienbarkeit";
+
+/* NEWS_USABILITY_MSG */
+"NEWS_USABILITY_MSG" = "Mit Hilfe der neuen Lupen-Funktion können Sie schnell und einfach neue Webseiten aufrufen oder eine Suche starten. Mit Hilfe der neuen Lupen-Funktion können Sie schnell und einfach neue Webseiten aufrufen oder eine Suche starten. Mit Hilfe der neuen Lupen-Funktion können Sie schnell und einfach neue Webseiten aufrufen oder eine Suche starten. Mit Hilfe der neuen Lupen-Funktion können Sie schnell und einfach neue Webseiten aufrufen oder eine Suche starten.";
+
+/* NEWS_TAB_MANAGEMENT */
+"NEWS_TAB_MANAGEMENT" = "Verbesserte Tab Verwaltung";
+
+/* NEWS_TAB_MANAGEMENT_MSG */
+"NEWS_TAB_MANAGEMENT_MSG" = "Durch die neue Tab Verwaltung, ist es möglich eine Mehrzahl an privaten Tabs geöffnet zu haben, sowie die Webseiten einfach und schnell als Lesezeichen zu speichern.";
+
+/* NEWS_NEW_HISTORY */
+"NEWS_NEW_HISTORY" = "Neuer Verlauf";
+
+/* NEWS_NEW_HISTORY_MSG */
+"NEWS_NEW_HISTORY_MSG" = "Es ist nun möglich alle geöffneten Webseiten chronologisch  anzuzeigen  und erneut zu öffnen.";
+
+/* NO_INTERNET_SHORT_ALERT */
+"NO_INTERNET_SHORT_ALERT" = "Keine Internetverbindung";
+
+/* NO_INTERNET_SKIP_MESSAGE */
+"NO_INTERNET_SKIP_MESSAGE" = "Ohne eine aktive Internetverbindung haben Sie nur eingeschränkten Zugriff auf die Funktionen der App";
+
+/* OFFLINE_MODE_ALERT */
+"OFFLINE_MODE_ALERT" = "Der Offline-Modus wurde aktiviert. Bitte überprüfen Sie Ihre Verbindung oder verbinden Sie sich mit dem Internet um den Offline-Modus zu deaktiveren.";
+
+/* OK */
+"OK" = "OK";
+
+/* OPEN_IN_INCOGNITO_TAB */
+"OPEN_IN_INCOGNITO_TAB" = "In neuem inkognito Tab öffnen";
+
+/* OPEN_IN_TAB */
+"OPEN_IN_TAB" = "In neuem Tab öffnen";
+
+/* OPEN_URL_IN_NEW_TAB */
+"OPEN_URL_IN_NEW_TAB" = "Möchten Sie die folgende Webseite in einem neuen Tab öffnen?";
+
+/* PHISHING_CONTINUE */
+"PHISHING_CONTINUE" = "Der Zugriff auf diese Webseite wurde zu Ihrer Sicherheit geblockt. Möchten Sie dennoch fortfahren?";
+
+/* PHISHING_DETECTED */
+"PHISHING_DETECTED" = "SecureBrowser hat eine Phishingwebseite gefunden";
+
+/* PRODUCT_ALREADY_REGISTERED */
+"PRODUCT_ALREADY_REGISTERED" = "Das Produkt wurde bereits registriert.";
+
+/* QRCODE_ADD_TO_CLIPBOARD */
+"QRCODE_ADD_TO_CLIPBOARD" = "Kopieren";
+
+/* QRCODE_ADD_TO_CONTACTS */
+"QRCODE_ADD_TO_CONTACTS" = "Kontakt erstellen";
+
+/* QRCODE_CONNECT_WLAN */
+"QRCODE_CONNECT_WLAN" = "WLAN verbinden";
+
+/* QRCODE_CONTACT_FAILED */
+"QRCODE_CONTACT_FAILED" = "Kontakt konnte nicht gespeichert werden.";
+
+/* QRCODE_CONTACT_SUCCESS */
+"QRCODE_CONTACT_SUCCESS" = "Kontakt wurde gespeichert!";
+
+/* QRCODE_DELETE_ALL */
+"QRCODE_DELETE_ALL" = "Möchten Sie wirklich den Secure QR Verlauf löschen?";
+
+/* QRCODE_HISTORY */
+"QRCODE_HISTORY" = "Verlauf";
+
+/* QRCODE_NEW_SCAN */
+"QRCODE_NEW_SCAN" = "Neuer Scan";
+
+/* QRCODE_OPEN_IN_SB */
+"QRCODE_OPEN_IN_SB" = "In SecureBrowser öffnen";
+
+/* QRCODE_SCANNING_NOT_SUPPORTED_DESC */
+"QRCODE_SCANNING_NOT_SUPPORTED_DESC" = "QR-Code Scan wird nicht unterstützt. Bitte überprüfen Sie, ob die Sicherheits App die Berechtigungen für die Nutzung der Kamera hat.";
+
+/* QRCODE_TITLE */
+"QRCODE_TITLE" = "Secure QR";
+
+/* QRCODE_UNKNOWN */
+"QRCODE_UNKNOWN" = "QR-Code unbekannt";
+
+/* QRCODE_URL_NOT_SAFE */
+"QRCODE_URL_NOT_SAFE" = "URL ist nicht sicher";
+
+/* QRCODE_URL_SAFE */
+"QRCODE_URL_SAFE" = "URL ist sicher";
+
+/* QRCODE_URL_UNKNOWN */
+"QRCODE_URL_UNKNOWN" = "URL unbekannt";
+
+/* QRCODE_VCARD_FROM */
+"QRCODE_VCARD_FROM" = "Visitenkarte von $(NAME)";
+
+/* QRCOE_NO_DETECTION */
+"QRCOE_NO_DETECTION" = "Kein QR-Code erkannt";
+
+/* READ_EULA */
+"READ_EULA" = "Endbenutzer-Lizenzvertrag lesen";
+
+/* READ_PRIVACY_POLICY */
+"READ_PRIVACY_POLICY" = "Datenschutzerklärung lesen";
+
+/* REALTIME_TRACKING */
+"REALTIME_TRACKING" = "Echtzeit-Standorterfassung";
+
+/* REGISTER_ENTER_DATA */
+"REGISTER_ENTER_DATA" = "DATEN EINGEBEN";
+
+/* REGISTER_ERROR_WITH_MESSAGE */
+"REGISTER_ERROR_WITH_MESSAGE" = "Es trat ein Fehler bei der Registrierung auf. Der Server gab folgende Fehlermeldung an:";
+
+/* REGISTER_FIRSTNAME */
+"REGISTER_FIRSTNAME" = "Bitte geben Sie Ihren Vornamen ein";
+
+/* REGISTER_FIX_MAIL */
+"REGISTER_FIX_MAIL" = "FIX EMAIL";
+
+/* REGISTER_LASTNAME */
+"REGISTER_LASTNAME" = "Bitte geben Sie Ihren Nachnamen ein";
+
+/* REGISTER_OPTIN */
+"REGISTER_OPTIN" = "Ich erkläre mich damit einverstanden, dass die von mir angegebenen Daten sowie die durch die Nutzung entstandenen Daten für an mich gerichtete Werbung gespeichert und genutzt werden dürfen.";
+
+/* REGISTER_REGISTER */
+"REGISTER_REGISTER" = "REGISTRIEREN";
+
+/* REGISTER_REGISTRATION */
+"REGISTER_REGISTRATION" = "REGISTRIERUNG";
+
+/* REGISTER_TITLE */
+"REGISTER_TITLE" = "Registrierung";
+
+/* REGISTER_TITLE_AC */
+"REGISTER_TITLE_AC" = "G DATA ActionCenter";
+
+/* REGISTRATION_FAILED */
+"REGISTRATION_FAILED" = "Es trat ein Fehler bei der Registrierung auf.";
+
+/* REGISTRER_EMAIL */
+"REGISTRER_EMAIL" = "Bitte geben Sie Ihre E-Mail Adresse ein";
+
+/* REMOVE */
+"REMOVE" = "Löschen";
+
+/* RETRY */
+"RETRY" = "Nochmal";
+
+/* SEARCH_ENGINE */
+"SEARCH_ENGINE" = "Suchmaschine";
+
+/* SECUREBROWSER */
+"SECUREBROWSER" = "SecureBrowser";
+
+/* SECUREZONE_HELP */
+"SECUREZONE_HELP" = "Dies ist Ihre SecureZone. Nur die hier definierten Webseiten können angesteuert werden.";
+
+/* SETTINGS_ACTIONCENTER */
+"SETTINGS_ACTIONCENTER" = "ActionCenter";
+
+/* SETTINGS_AD_ID_TITLE */
+"SETTINGS_AD_ID_TITLE" = "Device ID";
+
+/* SETTINGS_APPLOCK */
+"SETTINGS_APPLOCK" = "Applock";
+
+/* SETTINGS_EULA */
+"SETTINGS_EULA" = "Endbenutzer-Lizenzvertrag"; /* NEW */
+
+/* SETTINGS_GDATA_ACCOUNT */
+"SETTINGS_GDATA_ACCOUNT" = "G DATA Account";
+
+/* SETTINGS_PRIVACY */
+"SETTINGS_PRIVACY" = "Datenschutzvereinbarung";
+
+/* SETTINGS_SUPPORT */
+"SETTINGS_SUPPORT" = "Support";
+
+/* SETTINGS_TITLE */
+"SETTINGS_TITLE" = "Einstellungen";
+
+/* SHARE */
+"SHARE" = "Teilen";
+
+/* SKIP */
+"SKIP" = "Offline Modus";
+
+/* START_ALEREADY_REGISTERED_MESSAGE */
+"START_ALEREADY_REGISTERED_MESSAGE" = "Ein anderes Gerät ist mit Ihrem G DATA Account verbunden. Möchten Sie dieses Gerät mit Ihrem Account verbinden und das andere ausloggen?";
+
+/* START_ALEREADY_REGISTERED_TITLE */
+"START_ALEREADY_REGISTERED_TITLE" = "Lizenz bereits in Benutzung";
+
+/* START_CALIBRATING_FLUXCAPACITOR */
+"START_CALIBRATING_FLUXCAPACITOR" = "Fluxkompensator wird konfiguriert";
+
+/* START_CHECKING_DEVICE */
+"START_CHECKING_DEVICE" = "Gerät wird überprüft";
+
+/* START_DONE */
+"START_DONE" = "Fertig";
+
+/* START_LICENSE_EXPIRED */
+"START_LICENSE_EXPIRED" = "Ihre Lizenz ist abgelaufen. Sie müssen ein Abonnement abschließen um alle Premiumfunktionen nutzen zu können. Wenn Sie sich gegen ein Abo entscheiden haben Sie nur begrenzten Zugriff auf die Funktionen der Sicherheit-App";
+
+/* START_LOGGING_IN */
+"START_LOGGING_IN" = "Wir loggen Sie ein";
+
+/* START_LOGIN_SUCCESS */
+"START_LOGIN_SUCCESS" = "Sie sind eingeloggt";
+
+/* START_MANAGE_DEVICES */
+"START_MANAGE_DEVICES" = "Geräte verwalten";
+
+/* START_USE_THIS_DEIVCE */
+"START_USE_THIS_DEIVCE" = "Dieses Gerät benutzen";
+
+/* SWIPELEFTALERT_MESSAGE */
+"SWIPELEFTALERT_MESSAGE" = "Sie haben nach links geswiped. Dies bedeutet, dass Sie den Tab löschen möchten. Wollen Sie fortfahren?";
+
+/* SWIPERIGHTALERT_MESSAGE */
+"SWIPERIGHTALERT_MESSAGE" = "Sie haben nach rechts geswiped. Dies bedeutet, dass Sie den Tab als Lesezeichen speichern möchten. Wollen Sie fortfahren?";
+
+/* TRY_AGAIN */
+"TRY_AGAIN" = "Erneut versuchen";
+
+/* UNLOCK */
+"UNLOCK" = "Entsperren";
+
+/* UNPRECISE_LOCATION_ACTIVATED_MESSAGE */
+"UNPRECISE_LOCATION_ACTIVATED_MESSAGE" = "Um Ihr Gerät im Falle eines Diebstahls orten zu können, benötigt die App die genaue Standortüberprüfung. Bitte aktivieren Sie diese in den Einstellungen.";
+
+/* UNPRECISE_LOCATION_ACTIVATED_TITLE */
+"UNPRECISE_LOCATION_ACTIVATED_TITLE" = "Genaue Standortüberprüfung ausgeschaltet";
+
+/* UPDATEMANAGER_SUBTITLE */
+"UPDATEMANAGER_SUBTITLE" = "Bitte registrieren oder loggen sie sich ein um die Premiumfunktionen dieser App zu nutzen";
+
+/* UNPRECISE_LOCATION_ACTIVATED_TITLE */
+"UNPRECISE_LOCATION_ACTIVATED_TITLE" = "Genaue Standortüberprüfung ausgeschaltet";
+
+/* UNPRECISE_LOCATION_ACTIVATED_MESSAGE */
+"UNPRECISE_LOCATION_ACTIVATED_MESSAGE" = "Um Ihr Gerät im Falle eines Diebstahls orten zu können, benötigt die App die genaue Standortüberprüfung. Bitte aktivieren Sie diese in den Einstellungen.";
+
+/* WEBSITE_CANT_BE_REACHED */
+"WEBSITE_CANT_BE_REACHED" = "This site can’t be reached";
+
+/* WELCOME_MSG */
+"WELCOME_MSG" = "Herzlich willkommen in Ihrer neuen Sicherheits App. Folgende Dinge haben wir für Sie in dieser Version verbessert.";
+
+/* WELCOME_TITLE */
+"WELCOME_TITLE" = "Willkommen";
+
+/* WHITLELIST_HELP */
+"WHITELIST_HELP" = "Dies ist Ihre Whitelist. Alle hier definierten Webseiten können angesteuert werden.";
+
+/* YES */
+"YES" = "Ja";
+

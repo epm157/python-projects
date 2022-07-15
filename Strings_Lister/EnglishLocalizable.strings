@@ -1,0 +1,1083 @@
+/* Created with Localizable Strings Merge, the swiss-army knife for iOS and OS X localization. */
+
+/* Date format */
+"%.f days ago" = "%.f days ago"; /* NEW */
+
+/* Date format */
+"%.f hours ago" = "%.f hours ago"; /* NEW */
+
+/* Date format */
+"%.f minutes ago" = "%.f minutes ago"; /* NEW */
+
+/* Date format */
+"%.f months ago" = "%.f months ago"; /* NEW */
+
+/* Date format */
+"%.f seconds ago" = "%.f seconds ago"; /* NEW */
+
+/* Date format */
+"%.f weeks ago" = "%.f weeks ago"; /* NEW */
+
+/* Date format */
+"%.f years ago" = "%.f years ago"; /* NEW */
+
+/* Date format */
+"1 minute ago" = "1 minute ago"; /* NEW */
+
+/* AC_APPLOCK_RESET */
+"AC_APPLOCK_RESET" = "Applock password has been reset";
+
+/* AC_DEVICE_LOCATED */
+"AC_DEVICE_LOCATED" = "This device was remotely located";
+
+/* AC_EVENT_HISTORY */
+"AC_EVENT_HISTORY" = "History";
+
+/* AC_FAILED_LOGIN_ERROR_WAIT_5_MIN */
+"AC_FAILED_LOGIN_ERROR_WAIT_5_MIN" = "Login error. Please wait 5 min and try again.";
+
+/* AC_FAILED_LOGIN_NO_CONNECTION */
+"AC_FAILED_LOGIN_NO_CONNECTION" = "There is no active internet connection. Please check and try again.";
+
+/* AC_FAILED_LOGIN_USER_NOT_FOUND */
+"AC_FAILED_LOGIN_USER_NOT_FOUND" = "User was not found. Please check your credentials and try again.";
+
+/* AC_FAILED_LOGIN_WRONG_DATA */
+"AC_FAILED_LOGIN_WRONG_DATA" = "Wrong credentials. Please check and try again.";
+
+/* AC_FAILED_LOGIN_WRONG_LOGIN */
+"AC_FAILED_LOGIN_WRONG_LOGIN" = "Login failed. Please check and try again.";
+
+/* AC_FAILED_REGISTERATION_EMAIL_ALREADY_EXISTS */
+"AC_FAILED_REGISTERATION_EMAIL_ALREADY_EXISTS" = "The entered email address is already registered on the ActionCenter.";
+
+/* AC_FAILED_REGISTRATION_ERROR_WAIT_5_MIN */
+"AC_FAILED_REGISTRATION_ERROR_WAIT_5_MIN" = "Registration error. Please wait 5 min and try again.";
+
+/* AC_FAILED_REGISTRATION_WRONG_REGISTRATION */
+"AC_FAILED_REGISTRATION_WRONG_REGISTRATION" = "Registration failed. Please check and try again.";
+
+/* AC_FLIGHT_MODE */
+"AC_FLIGHT_MODE" = "Flight mode was activated";
+
+/* AC_LOGIN_FIX_MAIL */
+"AC_LOGIN_FIX_MAIL" = "Fix E-Mail";
+
+/* AC_LOGIN_SUCCESS_INFO */
+"AC_LOGIN_SUCCESS_INFO" = "You are logged in. Your credentials are:";
+
+/* AC_LOW_BATTERY */
+"AC_LOW_BATTERY" = "Low battery";
+
+/* AC_NO_EVENTS */
+"AC_NO_EVENTS" = "No events found.";
+
+/* AC_PHISHING_BLOCKING_PAGE */
+"AC_PHISHING_BLOCKING_PAGE" = "https://ac.gdata.de/webprotection/blockpage_en.html";
+
+/* AC_PLAYED_TONE */
+"AC_PLAYED_TONE" = "Remote alert was triggered";
+
+/* AC_REGISTER_EMAIL */
+"AC_REGISTER_EMAIL" = "E-Mail";
+
+/* AC_REGISTER_PW */
+"AC_REGISTER_PW" = "Password";
+
+/* AC_REGISTER_PW_NEEDS_LETTER_AND_NUMBER */
+"AC_REGISTER_PW_NEEDS_LETTER_AND_NUMBER" = "Password needs 8 characters consisting of uppercase, lowercase letters and numbers.";
+
+/* AC_REGISTER_PW_NO_MATCH */
+"AC_REGISTER_PW_NO_MATCH" = "Passwords do not match";
+
+/* AC_REGISTER_REPEAT_PW */
+"AC_REGISTER_REPEAT_PW" = "Repeat password";
+
+/* AC_SET_MUTE */
+"AC_SET_MUTE" = "Device was remotely muted";
+
+/* AC_SIM_CHANGED */
+"AC_SIM_CHANGED" = "SIM Card was changed";
+
+/* AC_USER_CHANGED */
+"AC_USER_CHANGED" = "User was switched successfully";
+
+/* ACCEPT */
+"ACCEPT" = "ACCEPT";
+
+/* ACCOUNT_ABORTED_RESTORE */
+"ACCOUNT_ABORTED_RESTORE" = "A valid subscription has not been found. Please buy a new license. If you think this is an error please try again or contact support";
+
+/* CHANGE_USER */
+"ACCOUNT_CHANGE_USER" = "Change user";
+
+/* ACCOUNT_COMPUTER_ID_CHANGED */
+"ACCOUNT_COMPUTER_ID_CHANGED" = "Another device has permission to use your G DATA Account. Do you want transfer your account license to this device?";
+
+/* ACCOUNT_ERROR_OCCURED */
+"ACCOUNT_ERROR_OCCURED" = "An error occured.";
+
+/* ACCOUNT_INVALID_LOGIN
+   LICENSE_EXPIRED */
+"ACCOUNT_INVALID_LOGIN" = "Your account is invalid.";
+
+/* ACCOUNT_LICENSE_EXPIRED */
+"ACCOUNT_LICENSE_EXPIRED" = "The license associated with your account has expired!
+
+Buy a new license now and use the full range of functions of G DATA MobileSecurity.
+
+No more phishing traps: SecureQR and Secure Browser protect you optimally against fake websites.
+
+Trust in German data protection with G DATA's own ActionCenter and FindMyDevice.";
+
+/* ACCOUNT_LICENSE_FAULT */
+"ACCOUNT_LICENSE_FAULT" = "Number of valid devices exceeded. Manage your devices on My G DATA or proceed with limited access to your Security app.";
+
+/* ACCOUNT_LICENSE_FAULT_MYGDATA */
+"ACCOUNT_LICENSE_FAULT_MYGDATA" = "Number of valid devices exceeded. Manage your devices on My G DATA or proceed with limited access to your Security app.";
+
+/* ACCOUNT_LICENSE_FAULT_SUPPORT */
+"ACCOUNT_LICENSE_FAULT_SUPPORT" = "Your license could not be transferred. Please contact our support.";
+
+/* ACCOUNT_LICENSE_SUBTEXT */
+"ACCOUNT_LICENSE_SUBTEXT" = "Subscription automatically renews unless auto-renew is cancelled at least 24-hours before the end of the current period. 15,99€ / year";
+
+/* ACCOUNT_LICENSE_TITLE */
+"ACCOUNT_LICENSE_TITLE" = "G DATA Mobile Security: Premium";
+
+/* LOADING_WAIT */
+"ACCOUNT_LOADING_WAIT" = "Loading, please wait";
+
+/* ACCOUNT_MANAGE_LICENSE */
+"ACCOUNT_MANAGE_LICENSE" = "Manage your subscriptions";
+
+/* ACCOUNT_REFRESH_TITLE */
+"ACCOUNT_REFRESH_TITLE" = "Refresh";
+
+/* ACCOUNT_SERVER_NOT_AVAILABLE */
+"ACCOUNT_SERVER_NOT_AVAILABLE" = "The G DATA server could not be reached. Please try again later.";
+
+/* ACCOUNT_TITLE */
+"ACCOUNT_TITLE" = "G DATA Account";
+
+/* ACCOUNT_UPDATE_LICENSE */
+"ACCOUNT_UPDATE_LICENSE" = "LICENSE INFORMATION";
+
+/* ACCOUNT_WANT_LOGOUT?
+   WANT_LOGOUT? */
+"ACCOUNT_WANT_LOGOUT?" = "Do you really want to logout?";
+
+/* WANT_LOGOUT_TITLE */
+"ACCOUNT_WANT_LOGOUT_TITLE" = "Logout";
+
+/* ACTION_CENTER */
+"ACTION_CENTER" = "ActionCenter";
+
+/* ACTIONCENTER_SUBTITLE */
+"ACTIONCENTER_SUBTITLE" = "Control your device with G DATA's ActionCenter.";
+
+/* ADD_NEW_ENTRY */
+"ADD_NEW_ENTRY" = "ADD_NEW_ENTRY"; /* NEW */
+
+/* ADD_TO_BLACKLIST */
+"ADD_TO_BLACKLIST" = "ADD_TO_BLACKLIST"; /* NEW */
+
+/* ADD_TO_WHITELIST */
+"ADD_TO_WHITELIST" = "ADD_TO_WHITELIST"; /* NEW */
+
+/* ALERT_ATTENTION */
+"ALERT_ATTENTION" = "Attention!";
+
+/* ALERT_BACKGROUNDFETCH_DISABLED */
+"ALERT_BACKGROUNDFETCH_DISABLED" = "G DATA Mobile Security doesn't work without the Background App Refresh enabled. To turn it on, go to Settings > General > Background App Refresh";
+
+/* ALERT_BUY_LICENSE */
+"ALERT_BUY_LICENSE" = "Subscribe now for $x year";
+
+/* ALERT_LIMITED_DASHBOARD */
+"ALERT_LIMITED_DASHBOARD" = "Limited access";
+
+/* ALERT_LOCATION_NOT_ENABLED */
+"ALERT_LOCATION_NOT_ENABLED" = "Security";
+
+/* ALERT_LOCATION_NOT_ENABLED_MSG */
+"ALERT_LOCATION_NOT_ENABLED_MSG" = "In order to provide you the best experience and to have full functionality for features such as 'Find my device' Security need the permission to access your location. Please head to the 'Settings' app and select 'Privacy' to allow Security to access your location. Thanks.";
+
+/* ANTI_THEFT */
+"ANTI_THEFT" = "Find my device";
+
+/* ANTI_THEFT_ENABLE_ALL */
+"ANTI_THEFT_ENABLE_ALL" = "Enable Find my device";
+
+/* ANTI_THEFT_ENABLE_ALL_DESCRIPTION */
+"ANTI_THEFT_ENABLE_ALL_DESCRIPTION" = "Your device will be located and your location will be sent to the G DATA ActionCenter";
+
+/* ANTI_THEFT_FLIGHTMODE_DESCRIPTION */
+"ANTI_THEFT_FLIGHTMODE_DESCRIPTION" = "You will receive an email when phone enters flightmode";
+
+/* ANTI_THEFT_FLIGHTMODE_DETECTION */
+"ANTI_THEFT_FLIGHTMODE_DETECTION" = "Flightmode";
+
+/* ANTI_THEFT_LOCATE_WHEN_LOW_BATTERY */
+"ANTI_THEFT_LOCATE_WHEN_LOW_BATTERY" = "Low battery";
+
+/* ANTI_THEFT_LOW_BATTERY_DESCRIPTION */
+"ANTI_THEFT_LOW_BATTERY_DESCRIPTION" = "You will receive an email when battery falls below 20%";
+
+/* ANTI_THEFT_SIM_CARD_REMOVAL_DESCRIPTION */
+"ANTI_THEFT_SIM_CARD_REMOVAL_DESCRIPTION" = "You will receive an email when the SIM card is removed";
+
+/* ANTI_THEFT_SIM_CARD_REMOVAL_DETECTION */
+"ANTI_THEFT_SIM_CARD_REMOVAL_DETECTION" = "SIM card removal";
+
+/* ANTITHEFT_ENERGY_SAVER */
+"ANTITHEFT_ENERGY_SAVER" = "Energy saver";
+
+/* ANTITHEFT_ENERGY_SAVER_DESCRIPTION */
+"ANTITHEFT_ENERGY_SAVER_DESCRIPTION" = "To reduce power consumption, the status of the enabled functions is updated only every two minutes, instead of in real time.";
+
+/* APP_NAME */
+"APP_NAME" = "Mobile Security";
+
+/* ACCESS_TO_ACCOUNT */
+"APPLOCK_ACCESS_TO_ACCOUNT" = "Account";
+
+/* ACCESS_TO_ANTITHEFT */
+"APPLOCK_ACCESS_TO_ANTITHEFT" = "Find my device";
+
+/* ACCESS_TO_APP */
+"APPLOCK_ACCESS_TO_APP" = "App";
+
+/* ACCESS_TO_QR */
+"APPLOCK_ACCESS_TO_QR" = "Secure QR";
+
+/* ACCESS_TO_SB */
+"APPLOCK_ACCESS_TO_SB" = "SecureBrowser";
+
+/* APPLOCK_ACCESS_TO_SB_SETTINGS */
+"APPLOCK_ACCESS_TO_SB_SETTINGS" = "SecureBrowser Settings";
+
+/* ACCESS_TO_SETTINGS */
+"APPLOCK_ACCESS_TO_SETTINGS" = "Access to settings";
+
+/* APPLOCK_ACTIVATE */
+"APPLOCK_ACTIVATE" = "Activate Applock";
+
+/* APPLOCK_BIOEMTRICS_TITLE */
+"APPLOCK_BIOEMTRICS_TITLE" = "ADDITIONAL UNLOCK METHODS";
+
+/* ACCESS_REASON */
+"APPLOCK_BIOMETRICS_ACCESS_REASON" = "Security wants to unlock your device with TouchID";
+
+/* APPLOCK_ENTER_OLD_PW */
+"APPLOCK_ENTER_OLD_PW" = "Enter old password";
+
+/* APPLOCK_ENTER_PW */
+"APPLOCK_ENTER_PW" = "Enter password";
+
+/* APPLOCK_ENTER_PW_AGAIN */
+"APPLOCK_ENTER_PW_AGAIN" = "Enter password again";
+
+/* APPLOCK_NEW_PASSWORD_SET */
+"APPLOCK_NEW_PASSWORD_SET" = "Your new password has been set";
+
+/* APPLOCK_OLD_PASSWORD_NOT_CORRECT */
+"APPLOCK_OLD_PASSWORD_NOT_CORRECT" = "Old password is not correct";
+
+/* PASSWORDS_PASSWORDS_DONT_MATCH */
+"APPLOCK_PASSWORDS_DONT_MATCH" = "Passwords don't match";
+
+/* PASSWORDS_NOT_LONG_ENOUGH */
+"APPLOCK_PASSWORDS_NOT_LONG_ENOUGH" = "Passwords are not long enough";
+
+/* APPLOCK_RESET_ERROR */
+"APPLOCK_RESET_ERROR" = "Error";
+
+/* APPLOCK_RESET_MESSAGE */
+"APPLOCK_RESET_MESSAGE" = "Please enter new Applock password";
+
+/* applock_reset_notification */
+"applock_reset_notification" = "A request to reset your Applock password has been received. Please open the Mobile Security app to enter a new Applock password.";
+
+/* APPLOCK_RESET_PASSWORD */
+"APPLOCK_RESET_PASSWORD" = "To be able to reset the password, Find my Device must be activated.";
+
+/* APPLOCK_RESET_SAVE */
+"APPLOCK_RESET_SAVE" = "Save";
+
+/* APPLOCK_RESET_SUCCESS */
+"APPLOCK_RESET_SUCCESS" = "Applock password has been reset.";
+
+/* APPLOCK_RESET_TITLE */
+"APPLOCK_RESET_TITLE" = "Reset Applock password";
+
+/* APPLOCK_RESET_TRY_AGAIN */
+"APPLOCK_RESET_TRY_AGAIN" = "Try again";
+
+/* APPLOCK_SET_PASSWORD_BUTTON_TITLE
+   SET_PASSWORD_BUTTON_TITLE */
+"APPLOCK_SET_PASSWORD_BUTTON_TITLE" = "Set password";
+
+/* APPLOCK_TITLE */
+"APPLOCK_TITLE" = "Applock";
+
+/* UNLOCK */
+"APPLOCK_UNLOCK" = "Unlock";
+
+/* APPLOCK_USE_BIOMETRIC */
+"APPLOCK_USE_BIOMETRIC" = "Use Face ID / Touch ID";
+
+/* WHAT_SECURED */
+"APPLOCK_WHAT_SECURED" = "What shall be secured?";
+
+/* APPLOCK_WRONG_PASSWORD */
+"APPLOCK_WRONG_PASSWORD" = "Your password is wrong";
+
+/* BLACK_AND_WHITELIST */
+"BLACK_AND_WHITELIST" = "BLACK_AND_WHITELIST"; /* NEW */
+
+/* BLACKLIST_HELP */
+"BLACKLIST_HELP" = "This is your blacklist. All the websites, that you are adding here will always be blocked by SecureBrowser";
+
+/* BLOCKED_ACCESS_SIDELOADS */
+"BLOCKED_ACCESS_SIDELOADS" = "SecureBrowser blocked %@ sideloads for your security";
+
+/* BOOKMARK_IMPORT_FAILED */
+"BOOKMARK_IMPORT_FAILED" = "Failed to import bookmarks.";
+
+/* BOOKMARK_IMPORT_SUCCEED */
+"BOOKMARK_IMPORT_SUCCEED" = "Bookmarks imported successfully.";
+
+/* BOOKMARK_IMPORTED_ON */
+"BOOKMARK_IMPORTED_ON" = "Imported on ";
+
+/* BOOKMARK_MOVE_TO_BLACKLIST */
+"BOOKMARK_MOVE_TO_BLACKLIST" = "Bookmark already exists in whitelist. Do you want to move it to blacklist?";
+
+/* BOOKMARK_MOVE_TO_WHITELIST */
+"BOOKMARK_MOVE_TO_WHITELIST" = "Bookmark already exists in blacklist. Do you want to move it to whitelist?";
+
+/* BROSWER_HISTORY_DELETED */
+"BROSWER_HISTORY_DELETED" = "History deleted";
+
+/* BROSWER_TABS_DELETED */
+"BROSWER_TABS_DELETED" = "Tabs deleted";
+
+/* BROWSER_ACCESSCONTROL */
+"BROWSER_ACCESSCONTROL" = "SecureZone";
+
+/* BROWSER_ADD_TO_BLACKLIST */
+"BROWSER_ADD_TO_BLACKLIST" = "Add to Blacklist";
+
+/* BROWSER_ADD_TO_BOOKMARKS */
+"BROWSER_ADD_TO_BOOKMARKS" = "BROWSER_ADD_TO_BOOKMARKS"; /* NEW */
+
+/* BROWSER_ADD_TO_SECUREZONE */
+"BROWSER_ADD_TO_SECUREZONE" = "Add to SecureZone";
+
+/* BROWSER_ADD_TO_WHITELIST */
+"BROWSER_ADD_TO_WHITELIST" = "Add to Whitelist";
+
+/* BROWSER_BLACKLIST */
+"BROWSER_BLACKLIST" = "Blacklist";
+
+/* BROWSER_BLACKLIST_DESCRIPTION */
+"BROWSER_BLACKLIST_DESCRIPTION" = "Define which websites shall always be blocked";
+
+/* BROWSER_BOOKMARK_ADD_CURRENT_PAGE */
+"BROWSER_BOOKMARK_ADD_CURRENT_PAGE" = "Add current page";
+
+/* BROWSER_BOOKMARK_ADD_FOLDER */
+"BROWSER_BOOKMARK_ADD_FOLDER" = "Create new folder";
+
+/* BROWSER_BOOKMARK_ADD_MESSAGE */
+"BROWSER_BOOKMARK_ADD_MESSAGE" = "Do you want to add the current page to bookmarks, create a new folder or create a new bookmark?";
+
+/* BROWSER_BOOKMARK_ADD_NEW_PAGE */
+"BROWSER_BOOKMARK_ADD_NEW_PAGE" = "Enter a new URL";
+
+/* BROWSER_BOOKMARK_FOLDER_DELETE */
+"BROWSER_BOOKMARK_FOLDER_DELETE" = "Do you want to delete the folder with all subfolders and its containing bookmarks?";
+
+/* BROWSER_BOOKMARK_FOLDER_RENAME */
+"BROWSER_BOOKMARK_FOLDER_RENAME" = "Please enter a new name for this folder";
+
+/* BROWSER_BOOKMARKS */
+"BROWSER_BOOKMARKS" = "Bookmarks";
+
+/* BROWSER_BOOKMARKS_EXPORT */
+"BROWSER_BOOKMARKS_EXPORT" = "Export Bookmarks";
+
+/* BROWSER_BOOKMARKS_EXPORT_CURRENT_FOLDER */
+"BROWSER_BOOKMARKS_EXPORT_CURRENT_FOLDER" = "BROWSER_BOOKMARKS_EXPORT_CURRENT_FOLDER"; /* NEW */
+
+/* BROWSER_BOOKMARKS_FOLDERS_HEADER */
+"BROWSER_BOOKMARKS_FOLDERS_HEADER" = "Folders";
+
+/* BROWSER_BOOKMARKS_HEADER */
+"BROWSER_BOOKMARKS_HEADER" = "Bookmarks";
+
+/* BROWSER_BOOKMARKS_IMPORT */
+"BROWSER_BOOKMARKS_IMPORT" = "Import Bookmarks";
+
+/* BROWSER_BOOKMARKS_SAVE */
+"BROWSER_BOOKMARKS_SAVE" = "Save";
+
+/* BROWSER_CHILDPROTECTION */
+"BROWSER_CHILDPROTECTION" = "Child protection";
+
+/* BROWSER_CHILDPROTECTION_SUBTITLE */
+"BROWSER_CHILDPROTECTION_SUBTITLE" = "Safe browsing powered by fragFINN";
+
+/* BROWSER_CLEAR_CACHE */
+"BROWSER_CLEAR_CACHE" = "Clear cache";
+
+/* BROWSER_DELETE_ALLTABS */
+"BROWSER_DELETE_ALLTABS" = "Delete all tabs";
+
+/* BROWSER_DELETE_HISTORY */
+"BROWSER_DELETE_HISTORY" = "Delete history";
+
+/* BROWSER_DELETEHISTORY */
+"BROWSER_DELETEHISTORY" = "Do you really want to delete your browser history?";
+
+/* BROWSER_DELETETABS */
+"BROWSER_DELETETABS" = "Do you really want to delete your browser tabs?";
+
+/* BROWSER_EDIT_BOOKMARKS */
+"BROWSER_EDIT_BOOKMARKS" = "Edit bookmarks";
+
+/* BROWSER_EMPTY_FIELDS */
+"BROWSER_EMPTY_FIELDS" = "Please fill in all fields.";
+
+/* BROWSER_ENTER_URL */
+"BROWSER_ENTER_URL" = "Please enter an URL to start browsing";
+
+/* BROWSER_FULLSCREEN */
+"BROWSER_FULLSCREEN" = "Fullscreen mode";
+
+/* BROWSER_INCOGNITO */
+"BROWSER_INCOGNITO" = "Incognito Mode";
+
+/* BROWSER_LIST_ADD */
+"BROWSER_LIST_ADD" = "Add";
+
+/* BROWSER_NEW_TAB */
+"BROWSER_NEW_TAB" = "New Tab";
+
+/* BROWSER_PHISHING_CONTINUE_TITLE */
+"BROWSER_PHISHING_CONTINUE_TITLE" = "Continue";
+
+/* BROWSER_PLACEHOLDER */
+"BROWSER_PLACEHOLDER" = "Search or enter website name";
+
+/* BROWSER_REGULAR */
+"BROWSER_REGULAR" = "Standard Mode";
+
+/* BROWSER_SEARCH_ALERT_MESSAGE */
+"BROWSER_SEARCH_ALERT_MESSAGE" = "Please choose your search engine";
+
+/* BROWSER_SEARCH_ALERT_TITLE */
+"BROWSER_SEARCH_ALERT_TITLE" = "SecureSearch";
+
+/* BROWSER_SEARCHENGINE */
+"BROWSER_SEARCH_ENGINE" = "Search engine";
+
+/* BROWSER_SECUREZONE_DESCRIPTION */
+"BROWSER_SECUREZONE_DESCRIPTION" = "Define your safe browsing environment";
+
+/* BROWSER_SETTINGS */
+"BROWSER_SETTINGS" = "Settings";
+
+/* BROWSER_SETTINGS_ADVANCED */
+"BROWSER_SETTINGS_ADVANCED" = "Advanced";
+
+/* BROWSER_SETTINGS_BASIC */
+"BROWSER_SETTINGS_BASIC" = "Basic";
+
+/* BROWSER_SETTINGS_CONTENT */
+"BROWSER_SETTINGS_CONTENT" = "Content";
+
+/* BROWSER_START_BROWSING */
+"BROWSER_START_BROWSING" = "Search or enter website to start browsing";
+
+/* BROWSER_TAB_BOOKMARK */
+"BROWSER_TAB_BOOKMARK" = "Added bookmark";
+
+/* BROWSER_TAB_DELETED */
+"BROWSER_TAB_DELETED" = "Tab deleted";
+
+/* BROWSER_TABS_DELETED */
+"BROWSER_TABS_DELETED" = "Tabs deleted";
+
+/* BROWSER_URL_NOT_CHILDSAFE */
+"BROWSER_URL_NOT_CHILDSAFE" = "URL #URL# is not childsafe.";
+
+/* BROWSER_WHITELIST */
+"BROWSER_WHITELIST" = "Whitelist";
+
+/* BROWSER_WHITELIST_DESCRIPTION */
+"BROWSER_WHITELIST_DESCRIPTION" = "Define which websites shall always be allowed";
+
+/* BROWSERTABS_TITLE */
+"BROWSERTABS_TITLE" = "Tabs";
+
+/* BTN_CLOSE */
+"BTN_CLOSE" = "Close";
+
+/* CANCEL */
+"CANCEL" = "Cancel";
+
+/* CANNOT_BE_EMPTY */
+"CANNOT_BE_EMPTY" = "CANNOT_BE_EMPTY"; /* NEW */
+
+/* CHECK_ACTIONCENTER */
+"CHECK_ACTIONCENTER" = "You are connected to the ActionCenter. You are protected in case of theft";
+
+/* CHECK_ACTIONCENTER_TITLE */
+"CHECK_ACTIONCENTER_TITLE" = "Find my device";
+
+/* CHECK_IOS_VERSION_CURRENT_MESSAGE */
+"CHECK_IOS_VERSION_CURRENT_MESSAGE" = "Your iOS version is up to date";
+
+/* CHECK_IOS_VERSION_NOTCURRENT_MESSAGE */
+"CHECK_IOS_VERSION_NOTCURRENT_MESSAGE" = "Your iOS version is outdated. Check if a system update is available.";
+
+/* CHECK_IOS_VERSION_TITLE */
+"CHECK_IOS_VERSION_TITLE" = "iOS version check";
+
+/* CHECK_IS_JAILBROKEN */
+"CHECK_IS_JAILBROKEN" = "This device is or was not running an official iOS version! This is a high security risk.";
+
+/* CHECK_JAILBREAK_TITLE */
+"CHECK_JAILBREAK_TITLE" = "Jailbreak";
+
+/* CHECK_NO_ACTIONCENTER */
+"CHECK_NO_ACTIONCENTER" = "'Find my device' is disabled. For best protection, turn on the function.";
+
+/* CHECK_NO_JAILBREAK */
+"CHECK_NO_JAILBREAK" = "No Jailbreak was detected. Everything is ok!";
+
+/* CHOOSE_ACTION */
+"CHOOSE_ACTION" = "Choose action";
+
+/* CLOSE_ALL */
+"CLOSE_ALL" = "Close all";
+
+/* CLOSING_WARNING */
+"CLOSING_WARNING" = "G DATA Mobile Security is disabled. Open Mobile Security to keep the ActionCenter features active.";
+
+/* CONFIRM_YOUR_EMAIL_ACTIONCENTER */
+"CONFIRM_YOUR_EMAIL_ACTIONCENTER" = "Thank you very much for your registration with the G DATA ActionCenter.\n\nYou will receive a confirmation e-mail shortly. Please click on the included link to confirm your registration.";
+
+/* ANTI_THEFT
+   DASHBOARD_ANTITHEFT */
+"DASHBOARD_ANTITHEFT" = "Find my device";
+
+/* DASHBOARD_BAR_MESSAGE_GRAY */
+"DASHBOARD_BAR_MESSAGE_GRAY" = "Please check your security status";
+
+/* DASHBOARD_BAR_MESSAGE_GREEN */
+"DASHBOARD_BAR_MESSAGE_GREEN" = "Everything is fine.";
+
+/* DASHBOARD_BAR_MESSAGE_RED */
+"DASHBOARD_BAR_MESSAGE_RED" = "security problems were found. Please check immediately!";
+
+/* DASHBOARD_BAR_MESSAGE_YELLOW */
+"DASHBOARD_BAR_MESSAGE_YELLOW" = "Issue(s) found";
+
+/* DASHBOARD_BAR_TITLE_GRAY */
+"DASHBOARD_BAR_TITLE_GRAY" = "Security Check";
+
+/* DASHBOARD_BAR_TITLE_GREEN */
+"DASHBOARD_BAR_TITLE_GREEN" = "Your device is secure!";
+
+/* DASHBOARD_BAR_TITLE_RED */
+"DASHBOARD_BAR_TITLE_RED" = "Security Alert!";
+
+/* DASHBOARD_BAR_TITLE_YELLOW */
+"DASHBOARD_BAR_TITLE_YELLOW" = "Warning!";
+
+/* DASHBOARD_BROWSER */
+"DASHBOARD_BROWSER" = "SecureBrowser";
+
+/* DASHBOARD_DEVICE */
+"DASHBOARD_DEVICE" = "My Device";
+
+/* DASHBOARD_LICENSE_EXPIRES_IN */
+"DASHBOARD_LICENSE_EXPIRES_IN" = "Your license expires in";
+
+/* DASHBOARD_LIMITED_ACCOUNT */
+"DASHBOARD_LIMITED_ACCOUNT" = "Your account is expired, touch here to renew your license";
+
+/* DASHBOARD_MYGDATA */
+"DASHBOARD_MYGDATA" = "My G DATA";
+
+/* DASHBAORD_QRCODE */
+"DASHBOARD_QRCODE" = "Secure QR";
+
+/* DASHBOARD_SETTINGS */
+"DASHBOARD_SETTINGS" = "Settings";
+
+/* DECLINE */
+"DECLINE" = "DECLINE";
+
+/* DELETE */
+"DELETE" = "Delete";
+
+/* DEVICE_BATTERY_CHARGING */
+"DEVICE_BATTERY_CHARGING" = "Battery charging";
+
+/* DEVICE_BATTERY_NOT_CHARGING */
+"DEVICE_BATTERY_NOT_CHARGING" = "Not charging";
+
+/* DEVICE_CHARGE */
+"DEVICE_CHARGE" = "Battery level";
+
+/* DEVICE_GENERAL_SETTINGS */
+"DEVICE_GENERAL_SETTINGS" = "Settings";
+
+/* DEVICE_IOS_VERSION */
+"DEVICE_IOS_VERSION" = "iOS version";
+
+/* DEVICE_NO_CARRIER */
+"DEVICE_NO_CARRIER" = "No carrier";
+
+/* DEVICE_OF_STRING */
+"DEVICE_OF_STRING" = " of ";
+
+/* DEVICE_USED_STRING */
+"DEVICE_USED_STRING" = " used";
+
+/* DONE */
+"DONE" = "Done";
+
+/* EDIT */
+"EDIT" = "EDIT"; /* NEW */
+
+/* ENABLE_ANTI_THEFT_FOR_TRACKING */
+"ENABLE_ANTI_THEFT_FOR_TRACKING" = "Only active if ‘Find my device’ is enabled.";
+
+/* ENTER_NAME */
+"ENTER_NAME" = "Please enter the bookmark's title";
+
+/* ENTER_NAME_AND_URL */
+"ENTER_NAME_AND_URL" = "ENTER_NAME_AND_URL"; /* NEW */
+
+/* ENTER_URL */
+"ENTER_URL" = "Please enter the bookmark's URL";
+
+/* EULA_DECLINE_MESSAGE */
+"EULA_DECLINE_MESSAGE" = "You have to accept the end user license agreement (EULA) to proceed with the registration";
+
+/* EULA_READ */
+"EULA_READ" = "PLEASE READ THE EULA";
+
+/* EULA_TITLE */
+"EULA_TITLE" = "EULA";
+
+/* FORGOT_PW */
+"FORGOT_PW" = "FORGOT PASSWORD?";
+
+/* FREQUENTLY_VISITED */
+"FREQUENTLY_VISITED" = "Frequently visited";
+
+/* GENERAL */
+"GENERAL" = "GENERAL";
+
+/* GENERIC_DAYS */
+"GENERIC_DAYS" = "days";
+
+/* GO_TO_SETTINGS */
+"GO_TO_SETTINGS" = "Go to settings";
+
+/* HELP */
+"HELP" = "HELP";
+
+/* Date format */
+"in %.f days" = "in %.f days"; /* NEW */
+
+/* Date format */
+"in %.f hours" = "in %.f hours"; /* NEW */
+
+/* Date format */
+"in %.f minutes" = "in %.f minutes"; /* NEW */
+
+/* Date format */
+"in %.f months" = "in %.f months"; /* NEW */
+
+/* Date format */
+"in %.f seconds" = "in %.f seconds"; /* NEW */
+
+/* Date format */
+"in %.f weeks" = "in %.f weeks"; /* NEW */
+
+/* Date format */
+"in %.f years" = "in %.f years"; /* NEW */
+
+/* Date format */
+"in 1 minute" = "in 1 minute"; /* NEW */
+
+/* Date format */
+"in a few seconds" = "in a few seconds"; /* NEW */
+
+/* Date format */
+"just now" = "just now"; /* NEW */
+
+/* Date format */
+"last hour" = "last hour"; /* NEW */
+
+/* Date format */
+"last month" = "last month"; /* NEW */
+
+/* Date format */
+"last week" = "last week"; /* NEW */
+
+/* Date format */
+"last year" = "last year"; /* NEW */
+
+/* LAST_TIME_LOCATED */
+"LAST_TIME_LOCATED" = "Last location capture at:";
+
+/* LICENSE_EXPIRED */
+"LICENSE_EXPIRED" = "Your license is expired";
+
+/* LICENSE_VALID_SUBSCRIPTION */
+"LICENSE_VALID_SUBSCRIPTION" = "Your subscription is valid";
+
+/* LICENSE_VALID_UNTIL */
+"LICENSE_VALID_UNTIL" = "License valid until";
+
+/* LINKS */
+"LINKS" = "Links";
+
+/* LIST_IN_BLACK */
+"LIST_IN_BLACK" = "This website could not be loaded. URL is listed on the blacklist.";
+
+/* LIST_NOT_IN_ACCESS */
+"LIST_NOT_IN_ACCESS" = "Access to THE_URL has been blocked for your security.";
+
+/* LISTS */
+"LISTS" = "LISTS"; /* NEW */
+
+/* LOADING_WAIT */
+"LOADING_WAIT" = "Loading ... Please Wait";
+
+/* LOGIN_BUTTON_LOGIN */
+"LOGIN_BUTTON_LOGIN" = "LOGIN";
+
+/* LOGIN_ENTER_DATA */
+"LOGIN_ENTER_DATA" = "ENTER DATA";
+
+/* LOGIN_FAILED */
+"LOGIN_FAILED" = "Login has failed";
+
+/* LOGIN_FIX_PW */
+"LOGIN_FIX_PW" = "FIX PASSWORD";
+
+/* LOGIN_FIX_USER */
+"LOGIN_FIX_USER" = "FIX USERNAME";
+
+/* LOGIN_FORGOT_PW */
+"LOGIN_FORGOT_PW" = "FORGOT PASSWORD?";
+
+/* LOGIN_PASSWORD */
+"LOGIN_PASSWORD" = "Please enter your password";
+
+/* LOGIN_USERNAME */
+"LOGIN_USERNAME" = "Please enter your username";
+
+/* LOGOUT */
+"LOGOUT" = "Logout";
+
+/* MY_GDATA_URL */
+"MY_GDATA_URL" = "https://www.gdatasoftware.co.uk/mygdata/";
+
+/* MY_GDATA_URL_US */
+"MY_GDATA_URL_US" = "https://www.gdata-software.com/mygdata/";
+
+/* NAME */
+"NAME" = "NAME"; /* NEW */
+
+/* NEEDS_TO_BE_VALID_URL */
+"NEEDS_TO_BE_VALID_URL" = "NEEDS_TO_BE_VALID_URL"; /* NEW */
+
+/* NEWS_BROWSING_EXPERIENCE */
+"NEWS_BROWSING_EXPERIENCE" = "New browsing experience";
+
+/* NEWS_BROWSING_EXPERIENCE_MSG */
+"NEWS_BROWSING_EXPERIENCE_MSG" = "The SecureBrowser has been completely reworked, thus giving you an improved browsing experience.";
+
+/* NEWS_NEW_HISTORY */
+"NEWS_NEW_HISTORY" = "New history";
+
+/* NEWS_NEW_HISTORY_MSG */
+"NEWS_NEW_HISTORY_MSG" = "It is now possible to display all open web pages chronologically and to open them again.";
+
+/* NEWS_TAB_MANAGEMENT */
+"NEWS_TAB_MANAGEMENT" = "Improved tab management";
+
+/* NEWS_TAB_MANAGEMENT_MSG */
+"NEWS_TAB_MANAGEMENT_MSG" = "With the new tab management, it is now possible to have multiple incognito tabs at once, while also giving you the option to bookmark opened websites fast and easy.";
+
+/* NEWS_USABILITY */
+"NEWS_USABILITY" = "Improved usability";
+
+/* NEWS_USABILITY_MSG */
+"NEWS_USABILITY_MSG" = "The new Magnifying Glass-function enables you to open Websites and search terms with ease. The new Magnifying Glass-function enables you to open Websites and search terms with ease. The new Magnifying Glass-function enables you to open Websites and search terms with ease. The new Magnifying Glass-function enables you to open Websites and search terms with ease.";
+
+/* Date format */
+"next hour" = "next hour"; /* NEW */
+
+/* Date format */
+"next month" = "next month"; /* NEW */
+
+/* Date format */
+"next week" = "next week"; /* NEW */
+
+/* Date format */
+"next year" = "next year"; /* NEW */
+
+/* NO_INTERNET_SHORT_ALERT */
+"NO_INTERNET_SHORT_ALERT" = "No internet connection";
+
+/* NO_INTERNET_SKIP_MESSAGE */
+"NO_INTERNET_SKIP_MESSAGE" = "Without an active internet connection, you will have only limited functionality.";
+
+/* OFFLINE_MODE_ALERT */
+"OFFLINE_MODE_ALERT" = "Offline mode has been activated. Please check your connection and try again to deactivate offline mode.";
+
+/* OK */
+"OK" = "OK";
+
+/* OPEN_IN_INCOGNITO_TAB */
+"OPEN_IN_INCOGNITO_TAB" = "Open in new incognito tab";
+
+/* OPEN_IN_TAB */
+"OPEN_IN_TAB" = "Open in new tab";
+
+/* OPEN_URL_IN_NEW_TAB */
+"OPEN_URL_IN_NEW_TAB" = "Do you want to open the following URL in a new tab?";
+
+/* PHISHING_CONTINUE */
+"PHISHING_CONTINUE" = "Access to this website has been blocked for your security. Do you want to continue anyway?";
+
+/* PHISHING_DETECTED */
+"PHISHING_DETECTED" = "Secure Browser detected a phishing website";
+
+/* PRODUCT_ALREADY_REGISTERED */
+"PRODUCT_ALREADY_REGISTERED" = "Product has already been registered.";
+
+/* QRCODE_ADD_TO_CLIPBOARD */
+"QRCODE_ADD_TO_CLIPBOARD" = "Add to clipboard";
+
+/* QRCODE_ADD_TO_CONTACTS */
+"QRCODE_ADD_TO_CONTACTS" = "Add to contacts";
+
+/* QRCODE_CONNECT_WLAN */
+"QRCODE_CONNECT_WLAN" = "Connect to WLAN";
+
+/* QRCODE_CONTACT_FAILED */
+"QRCODE_CONTACT_FAILED" = "Contact could not be saved";
+
+/* QRCODE_CONTACT_SUCCESS */
+"QRCODE_CONTACT_SUCCESS" = "Contact was saved!";
+
+/* QRCODE_DELETE_ALL */
+"QRCODE_DELETE_ALL" = "Do you really want to delete your Secure QR history?";
+
+/* QRCODE_HISTORY */
+"QRCODE_HISTORY" = "History";
+
+/* QRCODE_NEW_SCAN */
+"QRCODE_NEW_SCAN" = "New scan";
+
+/* QRCODE_OPEN_IN_SB */
+"QRCODE_OPEN_IN_SB" = "Open in SecureBrowser";
+
+/* QRCODE_SCANNING_NOT_SUPPORTED_DESC */
+"QRCODE_SCANNING_NOT_SUPPORTED_DESC" = "QR code scan is not supported. Please check if the security app has permissions to use the camera.";
+
+/* QRCODE_TITLE */
+"QRCODE_TITLE" = "Secure QR";
+
+/* QRCODE_UNKNOWN */
+"QRCODE_UNKNOWN" = "QR-Code unknown";
+
+/* QRCODE_URL_NOT_SAFE */
+"QRCODE_URL_NOT_SAFE" = "URL is not secure";
+
+/* QRCODE_URL_SAFE */
+"QRCODE_URL_SAFE" = "URL is secure";
+
+/* QRCODE_URL_UNKNOWN */
+"QRCODE_URL_UNKNOWN" = "URL unknown";
+
+/* QRCODE_VCARD_FROM */
+"QRCODE_VCARD_FROM" = "$(NAME)'s vCard";
+
+/* QRCOE_NO_DETECTION */
+"QRCOE_NO_DETECTION" = "QR-Code not detected";
+
+/* READ_EULA */
+"READ_EULA" = "Read End-user license agreement";
+
+/* READ_PRIVACY_POLICY */
+"READ_PRIVACY_POLICY" = "Read privacy policy";
+
+/* REALTIME_TRACKING */
+"REALTIME_TRACKING" = "Real-time location detection";
+
+/* REGISTER_ENTER_DATA */
+"REGISTER_ENTER_DATA" = "ENTER DATA";
+
+/* REGISTER_ERROR_WITH_MESSAGE */
+"REGISTER_ERROR_WITH_MESSAGE" = "A registration error occured, the server gave following reason:";
+
+/* REGISTER_FIRSTNAME */
+"REGISTER_FIRSTNAME" = "Please enter your first name";
+
+/* REGISTER_FIX_MAIL */
+"REGISTER_FIX_MAIL" = "FIX EMAIL";
+
+/* REGISTER_LASTNAME */
+"REGISTER_LASTNAME" = "Please enter your last name";
+
+/* REGISTER_OPTIN */
+"REGISTER_OPTIN" = "I agree that the data I have entered and data generated by my use may be stored and used for advertising addressed to me";
+
+/* REGISTER_REGISTER */
+"REGISTER_REGISTER" = "REGISTER";
+
+/* REGISTER_REGISTRATION */
+"REGISTER_REGISTRATION" = "REGISTRATION";
+
+/* REGISTER_TITLE */
+"REGISTER_TITLE" = "Registration";
+
+/* REGISTER_TITLE_AC */
+"REGISTER_TITLE_AC" = "G DATA ActionCenter";
+
+/* REGISTRATION_FAILED */
+"REGISTRATION_FAILED" = "A registration error occured.";
+
+/* REGISTRER_EMAIL */
+"REGISTRER_EMAIL" = "Please enter your email address";
+
+/* REMOVE */
+"REMOVE" = "Remove";
+
+/* RETRY */
+"RETRY" = "Retry";
+
+/* SEARCH_ENGINE */
+"SEARCH_ENGINE" = "Search engine";
+
+/* SECUREBROWSER */
+"SECUREBROWSER" = "SecureBrowser";
+
+/* SECUREZONE_HELP */
+"SECUREZONE_HELP" = "This is your SecureZone. Only the websites, that you are adding here will be allowed by SecureBrowser";
+
+/* SETTINGS_ACTIONCENTER */
+"SETTINGS_ACTIONCENTER" = "ActionCenter";
+
+/* SETTINGS_AD_ID_TITLE */
+"SETTINGS_AD_ID_TITLE" = "Device ID";
+
+/* SETTINGS_APPLOCK */
+"SETTINGS_APPLOCK" = "Applock";
+
+/* SETTINGS_EULA */
+"SETTINGS_EULA" = "End-user license agreement";
+
+/* SETTINGS_GDATA_ACCOUNT */
+"SETTINGS_GDATA_ACCOUNT" = "G DATA Account";
+
+/* SETTINGS_PRIVACY */
+"SETTINGS_PRIVACY" = "Privacy Policy";
+
+/* SETTINGS_SUPPORT */
+"SETTINGS_SUPPORT" = "Support";
+
+/* SETTINGS_TITLE */
+"SETTINGS_TITLE" = "Settings";
+
+/* SHARE */
+"SHARE" = "Share";
+
+/* SKIP */
+"SKIP" = "Offline Mode";
+
+/* START_ALEREADY_REGISTERED_MESSAGE */
+"START_ALEREADY_REGISTERED_MESSAGE" = "Another device has permission to use your G DATA Account. Do you want transfer your account license to this device?";
+
+/* START_ALEREADY_REGISTERED_TITLE */
+"START_ALEREADY_REGISTERED_TITLE" = "License already in use";
+
+/* START_CALIBRATING_FLUXCAPACITOR */
+"START_CALIBRATING_FLUXCAPACITOR" = "Calibrating Fluxcapacitor";
+
+/* START_CHECKING_DEVICE */
+"START_CHECKING_DEVICE" = "Checking Device";
+
+/* START_DONE */
+"START_DONE" = "Done!";
+
+/* START_LICENSE_EXPIRED */
+"START_LICENSE_EXPIRED" = "Your license has expired. You need to buy a subscription to use all our premium features. If you choose not to subscribe you'll only have limited access to your Security app.";
+
+/* START_LOGGING_IN */
+"START_LOGGING_IN" = "Logging you in";
+
+/* START_LOGIN_SUCCESS */
+"START_LOGIN_SUCCESS" = "You're all logged in";
+
+/* START_MANAGE_DEVICES */
+"START_MANAGE_DEVICES" = "Manage devices";
+
+/* START_USE_THIS_DEIVCE */
+"START_USE_THIS_DEIVCE" = "Use this device";
+
+/* SWIPELEFTALERT_MESSAGE */
+"SWIPELEFTALERT_MESSAGE" = "You've swiped the tab to the left. This means you want to delete the tab. Do you want to proceed?";
+
+/* SWIPERIGHTALERT_MESSAGE */
+"SWIPERIGHTALERT_MESSAGE" = "You've swiped the tab to the right. This means you want to bookmark this page. Do you want to proceed?";
+
+/* Date format */
+"tomorrow" = "tomorrow"; /* NEW */
+
+/* TRY_AGAIN */
+"TRY_AGAIN" = "Try again";
+
+/* UNLOCK */
+"UNLOCK" = "Unlock";
+
+/* UNPRECISE_LOCATION_ACTIVATED_MESSAGE */
+"UNPRECISE_LOCATION_ACTIVATED_MESSAGE" = "The app needs precise location permission, to locate your phone in case of theft. Please enable precise location in the settings.";
+
+/* UNPRECISE_LOCATION_ACTIVATED_TITLE */
+"UNPRECISE_LOCATION_ACTIVATED_TITLE" = "Precise location is turned off";
+
+/* UPDATEMANAGER_SUBTITLE */
+"UPDATEMANAGER_SUBTITLE" = "Please register/login to unlock the premium functions of the app.";
+
+/* URL */
+"URL" = "URL"; /* NEW */
+
+/* WELCOME_MSG */
+"WELCOME_MSG" = "Welcome to your new security app. Here's what's new.";
+
+/* WELCOME_TITLE */
+"WELCOME_TITLE" = "Welcome";
+
+/* WHITLELIST_HELP */
+"WHITELIST_HELP" = "This is your whitelist. All the websites, that you are adding here will always be permitted by SecureBrowser";
+
+/* YES */
+"YES" = "Yes";
+
+/* Date format */
+"yesterday" = "yesterday"; /* NEW */
+

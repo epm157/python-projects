@@ -1,0 +1,325 @@
+Applock Passwort wurde zurückgesetzt.
+Ihr Gerät wurde lokalisiert
+Verlauf
+Es trat ein Fehler beim Login auf. Bitte versuchen Sie es später erneut.
+Sie sind zur Zeit nicht mit dem Internet verbunden. Bitte versuchen Sie es später erneut.
+Der Benutzername oder das Passwort sind nicht korrekt. Bitte überprüfen Sie Ihre Anmeldedaten und versuchen es erneut.
+Der Benutzername oder das Passwort sind nicht korrekt. Bitte überprüfen Sie Ihre Anmeldedaten und versuchen es erneut.
+Der Login ist fehlgeschlagen. Bitte versuchen Sie es später erneut.
+Die eingegebene E-Mail-Adresse ist bereits im System vorhanden.
+Es trat ein Fehler bei der Registrierung auf. Bitte versuchen Sie es später erneut.
+Die Registrierung ist fehlgeschlagen. Bitte versuchen Sie es später erneut.
+Der Flugmodus wurde aktiviert
+Fix E-Mail
+Herzlich willkommen beim Action Center  \n Ihre Logindaten sind:
+Geringe Batterieladung
+Keine Ereignisse gefunden.
+https://ac.gdata.de/webprotection/blockpage_de.html
+Ein Alarmton wurde über das ActionCenter ausgelöst
+E-Mail
+Passwort
+Das Passwort muss mindestens 8 Zeichen lang sein und sich aus Groß- und Kleinbuchstaben sowie Zahlen zusammensetzen.
+Passwörter nicht gleich
+Passwortwiederholung
+Das Gerät wurde über das ActionCenter stumm geschaltet
+Die SIM-Karte wurde gewechselt
+Der Benutzer wurde erfolgreich gewechselt.
+AKZEPTIEREN
+Ein gültiges Abonnement wurde nicht gefunden. Wenn Sie denken, dass dies ein Fehler ist, versuchen Sie es bitte erneut oder kontaktieren Sie den Support.
+Benutzer wechseln
+Ein anderes Gerät ist mit Ihrem G DATA Account verbunden. Möchten Sie dieses Gerät mit Ihrem Account verbinden und das andere ausloggen?
+Ein unbekannter Fehler trat auf
+Die Zugangsdaten sind ungültig.
+Die zu Ihrem Account gehörige Lizenz ist abgelaufen!  Kaufen Sie jetzt eine neue Lizenz und nutzen Sie den vollen Funktionsumfang der G DATA MobileSecurity.  Schluss mit Phishing-Fallen: SecureQR und Secure Browser schützen Sie optimal vor gefälschten Webseiten.  Vertrauen Sie auf deutschen Datenschutz mit dem G DATA eigenem ActionCenter und FindMyDevice.
+Anzahl der gültigen Geräte überschritten. Verwalten Sie Ihre Geräte auf My G DATA oder fahren Sie mit begrenztem Zugriff auf die Funktionen der Sicherheit-App fort.
+Anzahl der gültigen Geräte überschritten. Verwalten Sie Ihre Geräte auf My G DATA oder fahren Sie mit begrenztem Zugriff auf die Funktionen der Sicherheit-App fort.
+Eine Übertragung der Lizenz auf dieses Gerät ist nicht möglich. Bitte kontaktieren Sie den Support.
+Die Abonnements werden automatisch verlängert, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor dem Ende der laufenden Periode beendet wurde. 15,99 / Jahr
+G DATA Mobile Security: Premium
+Daten werden geladen ... Bitte warten ...
+Verwalten Ihrer Abonnements
+Aktualisieren
+Der G DATA Server konnte nicht erreicht werden, bitte versuchen Sie es später erneut
+G DATA Account
+LIZENZ INFORMATIONEN
+Möchten Sie sich wirklich ausloggen?
+Logout
+ActionCenter
+Kontrollieren Sie Ihr Gerät mit dem G DATA ActionCenter.
+Achtung!
+G DATA Sicherheit funktioniert nicht ohne die Aktivierung der Hintergrundaktualisierung. Um die Hintergrundaktualisierung zu aktivieren, wechseln Sie zu den Einstellungen > Allgemein > Hintergrundaktualisierung
+Jetzt abonnieren für $x Jahr
+Limitierte Funktionalität
+Ortungsdienste aktivieren
+Um die Premium-Funktionen der G DATA Mobile Security verwenden zu können, müssen Sie Ihre Ortungsdienste aktivieren. Die Ortungsdienste aktieren Sie unter Einstellungen -> Datenschutz -> Ortungsdienste
+Find my device
+Find my device aktivieren
+Ihr Gerät wird lokalisiert und Ihre Position an das G DATA ActionCenter übermittelt
+Sie erhalten eine E-Mail wenn das Telefon den Flugmodus verlässt
+Flugmodus
+Geringe Batterieladung
+Sie erhalten eine E-Mail wenn die Batterieladung unter 20% fällt
+Sie erhalten eine E-Mail wenn die SIM-Karte entfernt wird.
+Die SIM-Karte wurde entfernt
+Energiesparmodus
+Um den Stromverbrauch zu senken, wird der Status der aktivierten Funktionen nur alle zwei Minuten aktualisiert, anstatt in Echtzeit.
+Mobile Security
+Account
+Find my device
+App
+Secure QR
+SecureBrowser
+SecureBrowser Einstellungen
+Zugang zu den Einstellungen
+Applock aktivieren
+WEITERE ENTSPERRMÖGLICHKEITEN
+Sicherheit will Ihr Gerät mit TouchID entsperren
+Bitte geben Sie das alte Passwort ein
+Bitte geben Sie das Passwort ein
+Bitte geben Sie das Passwort erneut ein
+Ihr neues Passwort wurde gesetzt
+Das alte Passwort ist nicht korrekt
+Die Passwörter stimmen nicht überein
+Die Passwörter sind zu kurz
+Fehler
+Bitte neues Passwort eintragen
+Anfrage für das Zurücksetzen Ihres Applock Passworts erhalten. Öffnen Sie die G DATA Mobile Security App um ein neues Applock Passwort zu vergeben.
+Um das Passwort zurücksetzen zu können, muss Find my device aktiviert sein.
+Speichern
+Applock Passwort wurde erfolgreich zurückgesetzt.
+Applock Passwort zurücksetzen
+Erneut versuchen
+Passwort setzen
+Applock
+Entsperren
+Face ID / Touch ID benutzen
+Welche Inhalte sollen gesichert werden?
+Ihr Passwort ist falsch.
+Dies ist Ihre Blacklist. Alle hier definierten Webseiten werden von dem SecureBrowser blockiert.
+SecureBrowser hat %@ sideloads zu Ihrer Sicherheit blockiert.
+Importieren der Lesezeichen fehlgeschlagen.
+Importieren der Lesezeichen erfolgreich.
+Imported on 
+Lesezeichen existieren bereits auf der Whitelist. Sollen sie auf die Blacklist verschoben werden?
+Lesezeichen existieren bereits auf der Blacklist. Sollen sie auf die Whitelist verschoben werden?
+History gelöscht
+Tabs gelöscht
+SecureZone
+Zur Blacklist hinzufügen
+Zur SecureZone hinzufügen
+Zur Whitelist hinzufügen
+Blacklist
+Eingestellte Seiten können nicht besucht werden
+Aktuelle Webseite hinzufügen
+Neuen Ordner erstellen
+Möchten Sie die aktuelle Seite zu Ihren Lesezeichen hinzufügen, einen neuen Ordner erstellen oder ein neues Lesezeichen erstellen?
+Neue URL eingeben
+Möchten Sie diesen Ordner mit allen Unterordnern und allen Lesezeichen löschen, die sich in diesen befinden?
+Bitte geben Sie einen neuen Namen für diesen Ordner ein
+Lesezeichen
+Lesezeichen bearbeiten
+Lesezeichen exportieren
+Ordner
+Lesezeichen
+Lesezeichen importieren
+Speichern
+Kindersicherung
+Sicheres surfen powered by fragFINN
+Cache löschen
+Alle Tabs löschen
+Browserverlauf löschen
+Möchten Sie wirklich den Browserverlauf löschen?
+Möchten Sie wirklich alle Tabs löschen?
+Lesezeichen editieren
+Bitte füllen Sie alle Felder aus
+Bitte geben Sie eine URL ein.
+Fullscreenmodus
+Privates Surfen
+Hinzufügen
+Bitte geben Sie eine URL ein.
+Möchten Sie ein neues Objekt auf diese Liste hinzufügen?
+Neuer Tab
+Weiter
+Geben Sie einen Suchbegriff oder eine URL ein
+Standard Modus
+Bitte wählen Sie eine Suchmaschine aus
+SecureSearch
+Suchmaschine
+Stellen Sie Ihre sichere Browserumgebung ein
+Einstellungen
+Fortgeschritten
+Standard
+Inhalte
+Geben Sie einen Suchbegriff oder eine URL ein
+Lesezeichen wurde hinzugefügt
+Tab gelöscht
+Tabs gelöscht
+URL #URL# ist nicht kindersicher.
+Whitelist
+Stellen Sie ein, welche Webseiten immer besucht werden können
+Tabs
+Schließen
+Abbrechen
+Sie sind mit dem ActionCenter verbunden. Ihr Gerät ist im Falle eines Diebstahls geschützt
+Find my device
+Die installierte iOS Version ist aktuell
+Ihre iOS-Version ist veraltet. Prüfen Sie, ob ein Systemupdate verfügbar ist.
+iOS Versionsüberprüfung
+Dieses Gerät nutzt eine modifizierte iOS Version. Dies ist ein hohes Sicherheitsrisiko
+Jailbreak
+'Find my device' ist deaktiviert. Für bestmöglichen Schutz, schalten Sie die Funktion ein.
+No Jailbreak was detected. Everything is ok!
+Aktion auswählen
+Alle schließen
+G DATA Mobile Security ist nicht mehr aktiviert. Öffnen Sie Mobile Security erneut, damit die Fernwartungsfunktionen weiterhin genutzt werden können.
+Vielen Dank für Ihre Anmeldung beim G DATA ActionCenter.\n\nSie erhalten in Kürze eine Bestätigungs-E-Mail. Bitte klicken Sie auf den enthaltenen Link, um Ihre Registrierung zu bestätigen.
+Find my device
+Bitte überprüfen Sie Ihren Sicherheitsstatus
+Alles ist OK!
+Sicherheitsprobleme wurden gefunden. Bitte überprüfen Sie diese sofort!
+Problem(e) gefunden
+Sicherheitsüberprüfung
+Ihr Gerät ist sicher!
+Sicherheitsalarm!
+Achtung!
+SecureBrowser
+My Device
+Ihre Lizenz läuft ab in:
+Ihr Account ist abgelaufen bitte drücken Sie hier um Ihre Lizenz zu erneuern
+My G DATA
+Secure QR
+Einstellungen
+ABLEHNEN
+Löschen
+Batterie wird geladen
+Batterie wird nicht geladen
+Batteriestatus
+Einstellungen
+iOS Version
+Kein Netzbetreiber
+ von 
+ benutzt
+Fertig
+Nur aktiv, wenn 'Find my Device' aktiviert ist.
+Liste aktivieren
+Bitte geben Sie den Titel ein
+Bitte geben Sie die URL ein
+Sie müssen die Endnutzerlizenzvereinbarung (EULA) akzeptieren um mit der Registrierung fortzufahren.
+BITTE LESEN SIE DIE EULA
+EULA
+PASSWORT VERGESSEN?
+Häufig besucht
+ALLGEMEIN
+Tagen
+Zu den Einstellungen
+HILFE
+Letzte Standorterfassung am:
+Ihre Lizenz ist abgelaufen
+Sie haben ein gültiges Abo
+Ihre Lizenz ist gültig bis: 
+Links
+Diese Webseite konnte nicht geladen werden. URL befindet sich auf der Blacklist
+Zugriff auf THE_URL wurde zu Ihrer Sicherheit blockiert.
+Ladevorgang .... Bitte warten .... 
+LOGIN
+DATEN EINGEBEN
+Login fehlgeschlagen
+FIX PASSWORT
+FIX BENUTZERNAME
+PASSWORT VERGESSEN?
+Bitte geben Sie Ihr Passwort ein
+Bitte geben Sie Ihren Benutzernamen ein
+Logout
+https://www.gdata.de/mygdata/
+MY_GDATA_URL_US
+iOS 14
+Mit iOS 14 ist es möglich zwischen einer präzisen und weniger präzisen Ortung zu wählen. Um Ihnen einen bestmöglichen Schutz zu bieten, haben wir zeigen wir Ihnen eine Warnung im Dashboard an wenn die Genauigkeit zu niedrig ist.
+Neue Browsererfahrung
+Durch eine komplette Überarbeitung des SecureBrowsers ist nun schnelleres Surfen möglich.
+Bessere Bedienbarkeit
+Mit Hilfe der neuen Lupen-Funktion können Sie schnell und einfach neue Webseiten aufrufen oder eine Suche starten. Mit Hilfe der neuen Lupen-Funktion können Sie schnell und einfach neue Webseiten aufrufen oder eine Suche starten. Mit Hilfe der neuen Lupen-Funktion können Sie schnell und einfach neue Webseiten aufrufen oder eine Suche starten. Mit Hilfe der neuen Lupen-Funktion können Sie schnell und einfach neue Webseiten aufrufen oder eine Suche starten.
+Verbesserte Tab Verwaltung
+Durch die neue Tab Verwaltung, ist es möglich eine Mehrzahl an privaten Tabs geöffnet zu haben, sowie die Webseiten einfach und schnell als Lesezeichen zu speichern.
+Neuer Verlauf
+Es ist nun möglich alle geöffneten Webseiten chronologisch  anzuzeigen  und erneut zu öffnen.
+Keine Internetverbindung
+Ohne eine aktive Internetverbindung haben Sie nur eingeschränkten Zugriff auf die Funktionen der App
+Der Offline-Modus wurde aktiviert. Bitte überprüfen Sie Ihre Verbindung oder verbinden Sie sich mit dem Internet um den Offline-Modus zu deaktiveren.
+OK
+In neuem inkognito Tab öffnen
+In neuem Tab öffnen
+Möchten Sie die folgende Webseite in einem neuen Tab öffnen?
+Der Zugriff auf diese Webseite wurde zu Ihrer Sicherheit geblockt. Möchten Sie dennoch fortfahren?
+SecureBrowser hat eine Phishingwebseite gefunden
+Das Produkt wurde bereits registriert.
+Kopieren
+Kontakt erstellen
+WLAN verbinden
+Kontakt konnte nicht gespeichert werden.
+Kontakt wurde gespeichert!
+Möchten Sie wirklich den Secure QR Verlauf löschen?
+Verlauf
+Neuer Scan
+In SecureBrowser öffnen
+QR-Code Scan wird nicht unterstützt. Bitte überprüfen Sie, ob die Sicherheits App die Berechtigungen für die Nutzung der Kamera hat.
+Secure QR
+QR-Code unbekannt
+URL ist nicht sicher
+URL ist sicher
+URL unbekannt
+Visitenkarte von $(NAME)
+Kein QR-Code erkannt
+Endbenutzer-Lizenzvertrag lesen
+Datenschutzerklärung lesen
+Echtzeit-Standorterfassung
+DATEN EINGEBEN
+Es trat ein Fehler bei der Registrierung auf. Der Server gab folgende Fehlermeldung an:
+Bitte geben Sie Ihren Vornamen ein
+FIX EMAIL
+Bitte geben Sie Ihren Nachnamen ein
+Ich erkläre mich damit einverstanden, dass die von mir angegebenen Daten sowie die durch die Nutzung entstandenen Daten für an mich gerichtete Werbung gespeichert und genutzt werden dürfen.
+REGISTRIEREN
+REGISTRIERUNG
+Registrierung
+G DATA ActionCenter
+Es trat ein Fehler bei der Registrierung auf.
+Bitte geben Sie Ihre E-Mail Adresse ein
+Löschen
+Nochmal
+Suchmaschine
+SecureBrowser
+Dies ist Ihre SecureZone. Nur die hier definierten Webseiten können angesteuert werden.
+ActionCenter
+Device ID
+Applock
+Endbenutzer-Lizenzvertrag
+G DATA Account
+Datenschutzvereinbarung
+Support
+Einstellungen
+Teilen
+Offline Modus
+Ein anderes Gerät ist mit Ihrem G DATA Account verbunden. Möchten Sie dieses Gerät mit Ihrem Account verbinden und das andere ausloggen?
+Lizenz bereits in Benutzung
+Fluxkompensator wird konfiguriert
+Gerät wird überprüft
+Fertig
+Ihre Lizenz ist abgelaufen. Sie müssen ein Abonnement abschließen um alle Premiumfunktionen nutzen zu können. Wenn Sie sich gegen ein Abo entscheiden haben Sie nur begrenzten Zugriff auf die Funktionen der Sicherheit-App
+Wir loggen Sie ein
+Sie sind eingeloggt
+Geräte verwalten
+Dieses Gerät benutzen
+Sie haben nach links geswiped. Dies bedeutet, dass Sie den Tab löschen möchten. Wollen Sie fortfahren?
+Sie haben nach rechts geswiped. Dies bedeutet, dass Sie den Tab als Lesezeichen speichern möchten. Wollen Sie fortfahren?
+Erneut versuchen
+Entsperren
+Um Ihr Gerät im Falle eines Diebstahls orten zu können, benötigt die App die genaue Standortüberprüfung. Bitte aktivieren Sie diese in den Einstellungen.
+Genaue Standortüberprüfung ausgeschaltet
+Bitte registrieren oder loggen sie sich ein um die Premiumfunktionen dieser App zu nutzen
+Genaue Standortüberprüfung ausgeschaltet
+Um Ihr Gerät im Falle eines Diebstahls orten zu können, benötigt die App die genaue Standortüberprüfung. Bitte aktivieren Sie diese in den Einstellungen.
+This site can’t be reached
+Herzlich willkommen in Ihrer neuen Sicherheits App. Folgende Dinge haben wir für Sie in dieser Version verbessert.
+Willkommen
+Dies ist Ihre Whitelist. Alle hier definierten Webseiten können angesteuert werden.
+Ja

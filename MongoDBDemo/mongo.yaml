@@ -1,0 +1,42 @@
+version: "3.9"
+services:
+  mongodb:
+    image: mongo
+    volumes:
+      - mongo-data:/data/db
+    ports:
+      - 27017:27017
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=password
+    networks:
+      - specific-network-name
+
+  mongo-express:
+    image: mongo-express
+    ports:
+      - 8080:8081
+    restart: always
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=admin
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=password
+      - ME_CONFIG_MONGODB_SERVER=mongodb
+    networks:
+      - specific-network-name
+
+  mongodbdemo:
+    image: cloud.canister.io:5000/epm157/mongodemo
+    ports:
+      - 5000:5000
+    restart: always
+    networks:
+      - specific-network-name
+
+networks:
+  specific-network-name:
+    external: false
+    name: specific-network-name
+
+volumes:
+  mongo-data:
+    driver: local

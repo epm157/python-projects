@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2296d8da-c918-4b85-b58f-9d7c5c13a949" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1553716059612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorials/02-intermediate/deep_residual_network" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$main.coverage" NAME="main Coverage Results" MODIFIED="1553676547640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorials/02-intermediate/deep_residual_network" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1553672080989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorials/02-intermediate/convolutional_neural_network" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$Test__2_.coverage" NAME="Test (2) Coverage Results" MODIFIED="1553757306038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorials/02-intermediate/recurrent_neural_network" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$Test.coverage" NAME="Test Coverage Results" MODIFIED="1553673032830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorials/02-intermediate/convolutional_neural_network" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/data_loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.max(</find>
+      <find>max</find>
+      <find>*2</find>
+      <find>zero(</find>
+      <find>sigmoid</find>
+      <find>size_average</find>
+      <find>eval</find>
+      <find>Vocabulary(</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tutorials/02-intermediate/convolutional_neural_network/Test.py" />
+        <option value="$PROJECT_DIR$/tutorials/02-intermediate/deep_residual_network/Test.py" />
+        <option value="$PROJECT_DIR$/tutorials/02-intermediate/bidirectional_recurrent_neural_network/Test.py" />
+        <option value="$PROJECT_DIR$/tutorials/02-intermediate/recurrent_neural_network/Test.py" />
+        <option value="$PROJECT_DIR$/tutorials/02-intermediate/language_model/main.py" />
+        <option value="$PROJECT_DIR$/tutorials/02-intermediate/language_model/__init__.py" />
+        <option value="$PROJECT_DIR$/tutorials/02-intermediate/language_model/Test.py" />
+        <option value="$PROJECT_DIR$/02-intermediate/language_model/Test.py" />
+        <option value="$PROJECT_DIR$/03-advanced/generative_adversarial_network/Test.py" />
+        <option value="$PROJECT_DIR$/03-advanced/variational_autoencoder/Test.py" />
+        <option value="$PROJECT_DIR$/03-advanced/neural_style_transfer/main.py" />
+        <option value="$PROJECT_DIR$/03-advanced/neural_style_transfer/Test.py" />
+        <option value="$PROJECT_DIR$/03-advanced/image_captioning/data_loader.py" />
+        <option value="$PROJECT_DIR$/03-advanced/image_captioning/sample.py" />
+        <option value="$PROJECT_DIR$/03-advanced/image_captioning/train.py" />
+        <option value="$PROJECT_DIR$/03-advanced/image_captioning/download.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="287" />
+    <option name="y" value="165" />
+    <option name="width" value="1400" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pytorch-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-tutorial-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pytorch-tutorial-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch-tutorial-master" type="462c0819:PsiDirectoryNode" />
+              <item name="03-advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../captioning" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03-advanced/image_captioning" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03-advanced/neural_style_transfer/png" />
+      <recent name="$PROJECT_DIR$/tutorials/02-intermediate/bidirectional_recurrent_neural_network" />
+      <recent name="$PROJECT_DIR$/tutorials/02-intermediate/recurrent_neural_network" />
+      <recent name="$PROJECT_DIR$/tutorials/02-intermediate/deep_residual_network" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch-tutorial-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03-advanced/image_captioning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-advanced/image_captioning/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2296d8da-c918-4b85-b58f-9d7c5c13a949" name="Default Changelist" comment="" />
+      <created>1553667784557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553667784557</updated>
+      <workItem from="1553667785806" duration="12382000" />
+      <workItem from="1553713847685" duration="2868000" />
+      <workItem from="1553754034217" duration="1769000" />
+      <workItem from="1553757366441" duration="285000" />
+      <workItem from="1553757664623" duration="1281000" />
+      <workItem from="1553766254161" duration="3882000" />
+      <workItem from="1553782065471" duration="1084000" />
+      <workItem from="1553842384624" duration="739000" />
+      <workItem from="1553843237656" duration="8197000" />
+      <workItem from="1553970138359" duration="121000" />
+      <workItem from="1553970311505" duration="516000" />
+      <workItem from="1553970850651" duration="2002000" />
+      <workItem from="1553975154848" duration="3031000" />
+      <workItem from="1554016686542" duration="2421000" />
+      <workItem from="1554037333587" duration="576000" />
+      <workItem from="1554037978727" duration="1267000" />
+      <workItem from="1554100344803" duration="422000" />
+      <workItem from="1554100787582" duration="2171000" />
+      <workItem from="1554103924995" duration="22000" />
+      <workItem from="1554105068722" duration="4373000" />
+      <workItem from="1554115033648" duration="331000" />
+      <workItem from="1554122127909" duration="2719000" />
+      <workItem from="1554143769821" duration="142000" />
+      <workItem from="1554143946439" duration="1322000" />
+      <workItem from="1554188241274" duration="9723000" />
+      <workItem from="1554216515456" duration="1505000" />
+      <workItem from="1554218131420" duration="2169000" />
+      <workItem from="1554238524312" duration="1165000" />
+      <workItem from="1554270189301" duration="10846000" />
+      <workItem from="1554294948067" duration="1495000" />
+      <workItem from="1554296659737" duration="2801000" />
+      <workItem from="1554315333085" duration="3268000" />
+      <workItem from="1554356266223" duration="5974000" />
+      <workItem from="1554364235711" duration="5924000" />
+      <workItem from="1554401594974" duration="16000" />
+      <workItem from="1554401638794" duration="389000" />
+      <workItem from="1554402344715" duration="56000" />
+      <workItem from="1554478411193" duration="292000" />
+      <workItem from="1554478770235" duration="1756000" />
+      <workItem from="1554481323255" duration="2193000" />
+      <workItem from="1554538014750" duration="164000" />
+      <workItem from="1554547286797" duration="605000" />
+      <workItem from="1554553653878" duration="751000" />
+      <workItem from="1554556465196" duration="143000" />
+      <workItem from="1554581112099" duration="1890000" />
+      <workItem from="1554620642032" duration="1852000" />
+      <workItem from="1554643283461" duration="29000" />
+      <workItem from="1554672628869" duration="369000" />
+      <workItem from="1554673019585" duration="936000" />
+      <workItem from="1554704552132" duration="9000" />
+      <workItem from="1554704585158" duration="611000" />
+      <workItem from="1554705892004" duration="12000" />
+      <workItem from="1554752165368" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111481000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="35" width="1866" height="1045" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2919911" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32990867" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38356164" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954337" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32833022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="JSON Viewer" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19944444" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3176131" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4013683" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32893288" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03-advanced/neural_style_transfer/main.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03-advanced/image_captioning/train.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$Test.coverage" NAME="Test Coverage Results" MODIFIED="1554364254973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-advanced/neural_style_transfer" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$train.coverage" NAME="train Coverage Results" MODIFIED="1554673227570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-advanced/image_captioning" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1554037998380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04-utils/tensorboard" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$Test__2_.coverage" NAME="Test (2) Coverage Results" MODIFIED="1553970639427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorials/02-intermediate/language_model" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$model.coverage" NAME="model Coverage Results" MODIFIED="1554582609711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-advanced/image_captioning" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1553782354092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tutorials/02-intermediate/language_model" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$main.coverage" NAME="main Coverage Results" MODIFIED="1554362985096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-advanced/neural_style_transfer" />
+    <SUITE FILE_PATH="coverage/pytorch_tutorial_master$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1554364011928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/03-advanced/neural_style_transfer" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/reconst-60.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/sampled-140.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-utils/tensorboard/gif/tensorboard.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-utils/tensorboard/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-601">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/sampled-60.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/reconst-50.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/reconst-40.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/reconst-30.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/sampled-10.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/sampled-80.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/sampled-90.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/sampled-120.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/reconst-140.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/reconst-150.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/samples/sampled-150.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="98" column="27" selection-start-line="98" selection-start-column="26" selection-end-line="98" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/variational_autoencoder/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1017">
+          <caret line="75" column="35" lean-forward="true" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/png/content2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-500.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-1000.png" />
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/png/style3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-150.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-100.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-50.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/png/neural_style2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/png/style4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-300.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-250.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-400.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-200.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-450.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-750.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/png/style2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/png/style.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/png/neural_style.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/output-900.png" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="109" column="36" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/neural_style_transfer/png/content.png" />
+    <entry file="file://$PROJECT_DIR$/02-intermediate/language_model/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-intermediate/language_model/data_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/resize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/build_vocab.py" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1143">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/download.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-advanced/image_captioning/data_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
